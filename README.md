@@ -102,8 +102,8 @@ There are no required prerequisites for this course.
 
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
-<ol>Using case when w/ logical & comparison operators</ol>
-<ol>Using case when w/ arithmetic operators</ol></ul>
+<ol> a. Using case when w/ logical & comparison operators</ol>
+<ol> b. Using case when w/ arithmetic operators</ol></ul>
 
 <ul><b> 15. <i> Week 15: Introduction to Joins </i></b>
 <ol> a. Left Join </ol>
@@ -112,7 +112,7 @@ There are no required prerequisites for this course.
 <ol> d. Outer Join </ol></ul>
 
 <b> Course Material: </b>
-(Add GitHub link)
+https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis
 
 <b> Resources (Optional): </b>
 https://www.w3schools.com/sql/default.asp 
