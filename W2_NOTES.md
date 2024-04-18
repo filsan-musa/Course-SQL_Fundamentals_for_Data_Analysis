@@ -1,4 +1,4 @@
-#Week 2: What is SQL?
+</h1>Week 2: What is SQL?</h1>
 
 <b>DATABASE:</b>  A database is a compilation of data that is organized and stored in a way that allows for efficient retrieval, modification, and management. Databases can store various types of data, including text, and numbers. Typically, databases contain either structured or unstructured data.
 <b>STRUCTURED:</b> Structured data refers to data that is organized in a pre-defined format, such as tables with rows and columns. Each piece of data is typically labeled and stored in a specific location within the database.
