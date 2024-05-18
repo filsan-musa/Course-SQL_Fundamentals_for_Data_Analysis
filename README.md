@@ -116,3 +116,7 @@ https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis
 
 <b> Resources (Optional): </b>
 https://www.w3schools.com/sql/default.asp 
+
+<b> Copyright </b>
+
+The contents of this repository are licensed under the CC0 1.0 Universal. Please view the "LICENSE" file for more detail.
