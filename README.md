@@ -1,8 +1,11 @@
+<br>
+
 <h1 align = 'center'> Course Title: SQL Fundamentals for Data Analysis </h1>
 
 <p align= 'center'><i> Instructor(s): Filsan Musa, and Fadumo Diriye </i></p>
 
 #
+
 <h3> Course Description: </h3>
 
 <p align = 'Justify'> This course serves as an introduction to Structured Query Language (SQL) for the aspiring data analyst, focusing on fundamental concepts and practical applications. The course is divided into two parts: the first part provides a foundational understanding of RDBMS, SQL, and access to databases, while the second part introduces applications of the SELECT statement, other statements related to Data Manipulation Language (DML), various functions, clauses, and operators. The course incorporates interactive video lectures, as well as weekly course exercises to reinforce learning. </p>
@@ -117,6 +120,8 @@ https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis
 <b> Resources (Optional): </b>
 https://www.w3schools.com/sql/default.asp 
 
-<b> Copyright </b>
 
+#
+
+<h3> Copyright ©: </h3>
 The contents of this repository are licensed under the CC0 1.0 Universal. Please view the "LICENSE" file for more detail.
