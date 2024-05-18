@@ -124,4 +124,4 @@ https://www.w3schools.com/sql/default.asp
 #
 
 <h3> Copyright ©: </h3>
-The contents of this repository are licensed under the CC0 1.0 Universal. Please view the "LICENSE" file for more detail.
+The contents of this repository are licensed under the CC0 1.0 Universal. Please view the "LICENSE" file for further details.
