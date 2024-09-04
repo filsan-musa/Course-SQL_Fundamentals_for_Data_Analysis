@@ -118,13 +118,13 @@ There are no required prerequisites for this course.
 <ol> c. Reference a Database  </ol>
 <ol> d. Common Errors & Debugging </ol>
 
-
+<br>
 
 <b> Course Material: </b>
-https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis
+<p> https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis </p>
 
 <b> Resources (Optional): </b>
-<p> Oppel, A., & Sheldon, R. (2009). SQL A Beginner's Guide (3rd ed.). McGraw Hill. Retrieved from <a href="https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-%26-manuels-informatiques/Sql/SQL-%20A%20Beginner%27s%20Guide%2C%203rd%20Edition.pdf">SQL: A Beginner's Guide</a></p>
+<p> Oppel, A., & Sheldon, R. (2009). SQL A Beginner's Guide (3rd ed.). McGraw Hill. Retrieved from <a href="https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-%26-manuels-informatiques/Sql/SQL-%20A%20Beginner%27s%20Guide%2C%203rd%20Edition.pdf"> SQL: A Beginner's Guide </a></p>
 <p> W3Schools. (n.d.). SQL Tutorial. Retrieved from <a href="https://www.w3schools.com/sql/default.asp"> W3Schools SQL Tutorial </a></p>
 
 #
