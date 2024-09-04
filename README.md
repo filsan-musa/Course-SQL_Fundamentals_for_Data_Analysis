@@ -33,18 +33,16 @@ There are no required prerequisites for this course.
 <ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol></ul>
  
 <ul><b> 3. <i> Week 3: Getting Started with SQL </i></b>
-<ol> a. Download SQL tutorial </ol>
+<ol> a. Register for SQLite Online </ol>
 <ol> b. Setting up the database </ol></ul>
 
 <ul><b> 4. <i> Week 4: What is an SQL table? </i></b>
 <ol> a. Tabular data storage  (ie. records, and columns) </ol>
 <ol> b. Primary Key (natural) </ol>
-<ol> c. Foreign Key </ol>
-<ol> d. Unique Key </ol>
-<ol> e. Super Key </ol></ul>
+<ol> c. Foreign Key </ol></ul>
 
 <ul><b> 5. <i> Week 5: What are the types of SQL commands? </i></b> 
-<ol> a. What are they used for? </ol>
+<ol> a. What are the main types of SQL commands? </ol>
 <ol> b. Explain their definitions and use cases </ol>
 <ol> c. Statements vs. Functions vs. Clauses vs. Operators </ol></ul>
 
