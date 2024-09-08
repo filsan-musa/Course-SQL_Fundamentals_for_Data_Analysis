@@ -38,28 +38,26 @@ There are no required prerequisites for this course.
 
 <ul><b> 4. <i> Week 4: What is an SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
-<ol> b. Primary Key </ol>
-<ol> c. Foreign Key </ol></ul>
+<ol> b. Primary key </ol>
+<ol> c. Foreign key </ol></ul>
 
-<ul><b> 5. <i> Week 5: What are the types of SQL commands? </i></b> 
-<ol> a. Main types of SQL commands </ol>
-<ol> b. Explain their definitions and use cases </ol>
-<ol> c. Statements vs. Functions vs. Clauses vs. Operators </ol></ul>
+<ul><b> 5. <i> Week 5: Understand SQL commands and components</i></b> 
+<ol> a. Types of SQL commands </ol>
+<ol> b. Components of a query</ol></ul>
 
 <ul><b> 6. <i> Week 6: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
-<ol> e. Date / Time </ol>
-<ol> f. Identifying the data type of a column, or data types in a table </ol></ul>
+ <ol><ol> iv. Date / Time </ol></ol>
+<ol> b. Identifying the data type of a column, or in a table </ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
-<ol> a. Selecting from a table / table within a database </ol>
-<ol> b. Select All / Single Column / Multiple Columns </ol>
-<ol> c. Selecting Distinct values from a column </ol>
-<ol> d. Referencing more than one table </ol>
-<ol> e. Using Aliases </ol></ul>
+<ol> a. Selecting from a table</ol>
+<ol> b. Selecting one, multiple, or all columns </ol>
+<ol> c. Selecting distinct values from a column </ol>
+<ol> d. Using aliases </ol></ul>
 
 <ul><b> 8. <i> Week 8: Basic Aggregations </i></b> 
 <ol> a. Count </ol>
@@ -115,8 +113,9 @@ There are no required prerequisites for this course.
 <ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
 <ol> a. Query Order </ol>
 <ol> b. Query Format </ol>
-<ol> c. Reference a Database  </ol>
+<ol> c. Variable maming conventions </ol></ul>
 <ol> d. Common Errors & Debugging </ol>
+<ol> e. Reference a Database  </ol>
 
 <br>
 
