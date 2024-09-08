@@ -37,7 +37,7 @@ There are no required prerequisites for this course.
 <ol> b. Setting up the database </ol></ul>
 
 <ul><b> 4. <i> Week 4: What is an SQL table? </i></b>
-<ol> a. Tabular data storage  (ie. records, and columns) </ol>
+<ol> a. Tabular data storage </ol>
 <ol> b. Primary Key </ol>
 <ol> c. Foreign Key </ol></ul>
 
