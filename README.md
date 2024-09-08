@@ -8,7 +8,7 @@
 
 <h3> Course Description: </h3>
 
-<p align = 'Justify'> This course serves as an introduction to Structured Query Language (SQL) for the aspiring data analyst, focusing on fundamental concepts and practical applications. The course is divided into two parts: the first part provides a foundational understanding of RDBMS, SQL, and access to databases, while the second part introduces applications of the SELECT statement, other statements related to Data Manipulation Language (DML), various functions, clauses, and operators. The course incorporates interactive video lectures, as well as weekly course exercises to reinforce learning. </p>
+<p align = 'Justify'> This course serves as an introduction to Structured Query Language (SQL) for the aspiring data analyst, focusing on fundamental concepts and practical applications. The course is divided into two parts: the first part provides a foundational understanding of RDBMS, SQL, and access to databases, while the second part introduces applications of the SELECT statement, various functions, clauses, and operators. The course incorporates interactive video lectures, as well as weekly course exercises to reinforce learning. </p>
 
 <h3> Prerequisites: </h3>
 
