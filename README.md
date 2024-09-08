@@ -42,7 +42,7 @@ There are no required prerequisites for this course.
 <ol> c. Foreign Key </ol></ul>
 
 <ul><b> 5. <i> Week 5: What are the types of SQL commands? </i></b> 
-<ol> a. What are the main types of SQL commands? </ol>
+<ol> a. Main types of SQL commands </ol>
 <ol> b. Explain their definitions and use cases </ol>
 <ol> c. Statements vs. Functions vs. Clauses vs. Operators </ol></ul>
 
@@ -114,7 +114,7 @@ There are no required prerequisites for this course.
 
 <ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
 <ol> a. Query Order </ol>
-<ol> a. Query Format </ol>
+<ol> b. Query Format </ol>
 <ol> c. Reference a Database  </ol>
 <ol> d. Common Errors & Debugging </ol>
 
