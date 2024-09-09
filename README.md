@@ -77,25 +77,25 @@ There are no required prerequisites for this course.
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
 <ol><ol> i. Date(), Timestamp() </ol></ol></ul>
 
-<ul><b> 10 <i> Week 10: Limit, Order By, Group By </i></b>
+<ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
 <ol> b. Order By </ol>
 <ol><ol> i. Asc </ol></ol>
 <ol><ol> ii. Desc </ol></ol>
 <ol> c. Group By  </ol></ul>
 
-<ul><b> 11 <i> Week 11: Introduction to the Where & Having Statements </i></b>
+<ul><b> 11. <i> Week 11: Introduction to the Where & Having Statements </i></b>
 <ol> a. Where </ol>
 <ol> b. Having </ol></ul>
 
-<ul><b> 12 <i> Week 10: Logical & Comparison Operators </i></b>
+<ul><b> 12. <i> Week 10: Logical & Comparison Operators </i></b>
 <ol> a. And / Or  / Between / In </ol>
 <ol> b. Not / Is (Not) Null </ol>
 <ol> c. Like </ol>
 <ol> d. Greater (Than) / Less (Than) </ol>
 <ol> e. Equality / Inequality </ol></ul>
 
-<ul><b> 13 <i> Week 13: Arithmetic Operators </i></b>
+<ul><b> 13. <i> Week 13: Arithmetic Operators </i></b>
 <ol> a. Addition </ol>
 <ol> b. Subtraction </ol>
 <ol> c. Product </ol>
