@@ -36,7 +36,7 @@ There are no required prerequisites for this course.
 <ol> a. Register for SQLite Online </ol>
 <ol> b. Setting up the database </ol></ul>
 
-<ul><b> 4. <i> Week 4: What is an SQL table? </i></b>
+<ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
 <ol> b. Primary key </ol>
 <ol> c. Foreign key </ol></ul>
@@ -59,7 +59,7 @@ There are no required prerequisites for this course.
 <ol> c. Selecting distinct values from a column </ol>
 <ol> d. Using aliases </ol></ul>
 
-<ul><b> 8. <i> Week 8: Basic Aggregations </i></b> 
+<ul><b> 8. <i> Week 8: Basic Aggregation Functions </i></b> 
 <ol> a. Count </ol>
 <ol> b. Sum </ol>
 <ol> c. Avg </ol>
@@ -98,7 +98,9 @@ There are no required prerequisites for this course.
 <ol> b. Numeric Functions </ol>
 <ol><ol> i. Floor() </ol></ol>
 <ol><ol> ii. Round() </ol></ol></ul>
-
+<ol> c. Datetime Functions </ol>
+<ol><ol> i. Date() </ol></ol>
+<ol><ol> ii. Timestamp() </ol></ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
