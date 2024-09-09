@@ -75,7 +75,7 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Round() </ol></ol>
 <ol> c. Datetime Functions </ol>
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
-<ol><ol> i. Date(), Timestamp() </ol></ol></ul>
+<ol><ol> ii. Date(), Timestamp() </ol></ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
