@@ -50,7 +50,7 @@ There are no required prerequisites for this course.
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
- <ol><ol> iv. Date / Time </ol></ol>
+ <ol><ol> iv. Datetime </ol></ol>
 <ol> b. Identifying the data type of a column, or in a table </ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
@@ -75,7 +75,7 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Round() </ol></ol>
 <ol> c. Datetime Functions </ol>
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
-<ol><ol> ii. Date(), Timestamp() </ol></ol></ul>
+<ol><ol> ii. Timestamp(), Date() </ol></ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
