@@ -3,9 +3,9 @@
 <p><b>DATABASE:</b> A database is a compilation of data that is organized and stored in a way that allows for efficient retrieval, modification, and management. Typically, databases contain either structured, unstructured, or semi-structured data.</p>
 <ul>
 <li>Example: store various types of data, including images, text, and numbers.</li>
-<li>STRUCTURED: Structured data refers to data that is organized in a pre-defined format, such as tables with rows and columns. Each piece of data is typically labeled and stored in a specific location within the database.</li>
+<li><b>STRUCTURED:</b> Structured data refers to data that is organized in a pre-defined format, such as tables with rows and columns. Each piece of data is typically labeled and stored in a specific location within the database.</li>
 <ul><li>Example: SQL, Spreadsheets etc.</li></ul>
-<li>UNSTRUCTURED: Unstructured data refers to data that does not have a pre-defined data structure. This type of data can include text documents, images, videos, and other multimedia files. Unstructured data is typically more difficult to analyze and process compared to structured data.</li>
+<li><b>UNSTRUCTURED:</b> Unstructured data refers to data that does not have a pre-defined data structure. This type of data can include text documents, images, videos, and other multimedia files. Unstructured data is typically more difficult to analyze and process compared to structured data.</li>
 <ul><li>Example: NoSQL, Text Documents, PDFs etc.</li></ul>
 </ul>
 
