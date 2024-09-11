@@ -15,4 +15,8 @@
 
 <p><b>SQL FLAVOUR:</b> An SQL flavour refers to a variant of SQL supported by a particular database management system (RDBMS). Different database vendors may offer their own variations of SQL, which may include additional features or syntax extensions on top of core SQL functions and features as defined by organizations like the American National Standards Institute (ANSI) or the International Organization for Standardization (ISO).</p>
 <ul><li>Example: MySQL, PostgreSQL, Oracle SQL, MariaDB, Microsoft SQL Server, SQLite, Snowflake SQL, IBM DB2 etc.</li></ul>
+<br>
+
+<img width="812" alt="Screenshot 2024-09-10 at 7 15 57 PM" src="https://github.com/user-attachments/assets/2a7bdbc5-40b7-436d-a839-5d26888ce280">
+
 
