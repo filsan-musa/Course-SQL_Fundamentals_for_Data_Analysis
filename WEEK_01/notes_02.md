@@ -17,6 +17,8 @@
 <ul><li>Example: MySQL, PostgreSQL, Oracle SQL, MariaDB, Microsoft SQL Server, SQLite, Snowflake SQL, IBM DB2 etc.</li></ul>
 <br>
 
+**Note: For this course we will be working with the sqlite flavour of sql.
+
 <img width="812" alt="Screenshot 2024-09-10 at 7 15 57 PM" src="https://github.com/user-attachments/assets/2a7bdbc5-40b7-436d-a839-5d26888ce280">
 
 
