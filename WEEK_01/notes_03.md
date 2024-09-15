@@ -33,7 +33,7 @@ PART 2b: Access to the Database via GitHub [Alternative Method]
 
 PART 3: Introduction to Chinook Database
 
-<p> The Chinook database was created by Luis Rocha, a Microsoft employee, in the early 2000s.
+<p> The Chinook database was developed in the early 2000s by Luis Rocha. Today, the Chinook database is a popular sample database used for learning and practicing SQL. It consists of 11 tables.
 
 If interested you can learn more about the database here: https://github.com/lerocha/chinook-database/tree/master
 </p>
