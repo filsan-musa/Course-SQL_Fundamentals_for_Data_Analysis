@@ -35,7 +35,7 @@ There are no required prerequisites for this course.
 <ul><b> 3. <i> Week 3: Getting Started with SQL </i></b>
 <ol> a. Register for SQLite Online </ol>
 <ol> b. Setting up the database </ol>
-<ol> c. Introduction to the Chinook database </ol></ul>
+<ol> c. Introducing the Chinook database </ol></ul>
 
 <ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
