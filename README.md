@@ -116,9 +116,9 @@ There are no required prerequisites for this course.
 <ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
 <ol> a. Query Order </ol>
 <ol> b. Query Format </ol>
-<ol> c. Variable naming conventions </ol></ul>
+<ol> c. Variable naming conventions </ol>
 <ol> d. Common Errors & Debugging </ol>
-<ol> e. Reference a Database  </ol>
+<ol> e. Reference a Database </ol></ul>
 
 <br>
 
