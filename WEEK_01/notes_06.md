@@ -12,8 +12,8 @@
 <ul><li>Example: -1, 0, 7.2598234, π, ⅓, sqrt 2 etc.</li></ul></ul>
 
 <b>String:</b>
-<ul><li>CHAR(n): Stores fixed-length character strings.</li>
-<ul><li>Example: CHAR(2) can store 2 characters, if less than 2 characters are entered the remaining space will be filled with whitespace.</ul>
+<ul><li>CHAR(n): Stores fixed-length character strings, if total string length is less than n the remaining space will be filled with whitespace</li>
+<ul><li>Example: CHAR(2) can store only up to 2 characters, any character combination up to 2 character space. ON, !, a@, 3b are all valid entries.</ul>
 <li>VARCHAR(n): Variable-length character strings with a maximum length of n.</li>
 <ul><li>Example: VARCHAR(24) can store any length of characters between 1-24. As opposed to CHAR(n) which fills empty spaces with whitespace, any unused space will be saved.</ul>
 <li>TEXT: Variable-length character strings with no maximum length.</li></ul>
