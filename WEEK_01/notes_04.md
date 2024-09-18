@@ -8,14 +8,15 @@
 <li>VALUE: a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
 </ul>
 
-Primary Key:
+<b>Primary Key:</b>
 A primary key is a unique identifier for each record in a table. A primary key can be 
+- natural keys
 - composite keys
-- 
+- surrogate keys (these three are the most popular)
 A natural primary key is a key that is derived from the data itself, such as a unique identifier inherent to the data domain.
 Natural primary keys are often based on attributes that naturally occur in the data, like email addresses, user_id, ip address, sku, device ids etc.
 
-Foreign Key:
+<b>Foreign Key:</b>
 A foreign key is a column or set of columns in a table that establishes a link between data in two tables.
 It represents a relationship between the data in the current table (child table) and the data in another table (parent table).
 The foreign key column typically contains values that correspond to the primary key values in the related table.
