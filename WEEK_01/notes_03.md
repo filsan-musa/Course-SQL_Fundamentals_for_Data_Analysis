@@ -33,9 +33,7 @@ PART 2b: Access to the Database via GitHub [Alternative Method]
 
 PART 3: Introduction to Chinook Database
 
-<p> The Chinook database was developed in the early 2000s by Luis Rocha. Today, the Chinook database is a popular sample database used for learning and practicing SQL. It consists of 11 tables.
-
-If interested you can learn more about the database here: https://github.com/lerocha/chinook-database/tree/master
+<p> The Chinook database, developed in the early 2000s by Luis Rocha, has become a popular sample database for those learning and practicing SQL. Designed to represent a digital media store, it simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, each serving a distinct purpose. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
 </p>
 
 
