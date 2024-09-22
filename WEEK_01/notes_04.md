@@ -8,21 +8,23 @@
 <li>VALUE: a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
 </ul>
 
-<b> What are keys>? </b>
+<b> What is an SQL key? </b>
+<p> These are components of relational databases that help define relationships between tables and ensure data integrity. SQL keys are like identification numbers for rows in a database table. There are two main types: primary keys, and foreign keys.</p>
 
-
-<b>Primary Key:</b>
+<p>PRIMARY KEY:
 A primary key is a unique identifier for each record in a table. Let's go over some of the most frequently used primary key types:
-<li>surrogate keys:
+<ul>
+<li>SURRAGATE KEY:
   These are artificially generated unique identifiers, auto-incrementing or randomly generated, that typically only serve meaning within the context of the table.
-  
-- natural keys: A natural primary key is a key that is derived from the data itself, such as a unique identifier inherent to the data domain. 
-  Natural primary keys are often based on attributes that naturally occur in the data, like email addresses, user_id, ip address, sku, device ids etc.
+<li>NATURAL KEY: A natural primary key is a key that is derived from the data itself, such as a unique identifier inherent to the data domain. 
+  Natural primary keys are often based on attributes that naturally occur in the data, like email addresses, user_id, ip address, sku, device ids etc.</li>
+</ul>
+</p>
 
-<b>Foreign Key:</b>
+<p>FOREIGN KEY:
 A foreign key is a column or set of columns in a table that establishes a link between data in two tables.
 It represents a relationship between the data in the current table (child table) and the data in another table (parent table).
-The foreign key column typically contains values that correspond to the primary key values in the related table.
+The foreign key column typically contains values that correspond to the primary key values in the related table.</p>
 
 <b>Why do we need to know about keys?</b>
 
