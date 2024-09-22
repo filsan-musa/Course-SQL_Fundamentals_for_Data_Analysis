@@ -1,6 +1,6 @@
 <h2>Week 3: Getting Started with SQL</h2>
 
-PART 1: Setting Up Online SQLite
+<b>PART 1: Setting Up Online SQLite</b>
 
 <ol>1. Go to the following website: https://sqliteonline.com</ol>
 <ol>2. Click the “Sign In” button on the top-right corner of the navigation bar.</ol>
@@ -14,7 +14,7 @@ PART 1: Setting Up Online SQLite
 <ol>5. Now that you’re done registering your account, you’ll need to verify your email. You should receive an email with a verification link attached.</ol>
 <br>
 
-PART 2a: Accessing the Database [Easier Method]
+<b>PART 2A: Accessing the Database [Easier Method]</b>
 
 <ol>1. To access the database, first login to your account.(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
 <ol>2. Select the “Chinook” database from the sample databases listed under example</ol>
@@ -23,7 +23,7 @@ PART 2a: Accessing the Database [Easier Method]
 <br>
 
 
-PART 2b: Access to the Database via GitHub [Alternative Method]
+<b>PART 2B: Access to the Database via GitHub [Alternative Method] </b>
 <ol>1. Visit the following GitHub link: https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis/blob/main/chinook.db </ol>
 <ol>2. Once on the page click on the menu icon and select download to download the database from GitHub on to your local computer.</ol>
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 33 08 AM" src="https://github.com/user-attachments/assets/458c7f2d-c679-45aa-ae23-789e35db6bb1"></ol>
@@ -31,7 +31,7 @@ PART 2b: Access to the Database via GitHub [Alternative Method]
 
 <br>
 
-PART 3: Introduction to Chinook Database
+<b>PART 3: Introduction to Chinook Database</b>
 
 <p> The Chinook database, developed in the early 2000s by Luis Rocha, has become a popular sample database for those learning and practicing SQL. Designed to represent a digital media store, it simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, each serving a distinct purpose. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
 </p>
