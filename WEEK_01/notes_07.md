@@ -1,10 +1,12 @@
 <h2> Week 7: Constructing a Select Statement:</h2>
 
+In this segment well be learning the basic components of a select query. 
+
 SELECT: This is the fundamental clause for retrieving columns, or manipulated data pulled from tables specified in the "FROM" clause (see FROM) data from tables. 
 
 FROM: This clause identifies the table(s) from which you want to retrieve data. It's essential to tell SQL where to look for the information. In many instances, you will also need to reference the database in which the table is situated.
 
- Here's what you can do with the SELECT clause:
+Here's what you can do with the SELECT clause:
 
 Select All: Use the asterisk (*) symbol to grab all columns from a table.
 
