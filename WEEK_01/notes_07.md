@@ -2,11 +2,11 @@
 
 In this segment we'll be learning the most basic components of a select query. You will learn how to access a table within your database and pull information. 
 
-<b>BASIC COMPONENTS OF A SELECT QUERY:</b>
+<b>FUNDAMENTAL COMPONENTS OF A SELECT QUERY:</b>
 <ul><li>SELECT: This statement is fundamental for retrieving columns, or manipulated data pulled from tables specified in the FROM clause.</li>
 <li>FROM: This clause identifies the table(s) from which you want to retrieve data. It's essential to tell SQL where to look for information. In some instances, you may also need to reference the database in which the table is situated.</li></ul>
 
-<b>SIMPLE SAMPLE QUERIES:</b>
+<b>BASIC SAMPLE QUERIES:</b>
 
 Here's what you can do with the SELECT clause:
 
