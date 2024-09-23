@@ -24,3 +24,15 @@
 <ul><li>DATE: Stores date values in the following format: YYYY-MM-DD.</li>
 <li>TIME: Stores time values in the following format: HH:MM:SS.</li>
 <li>TIMESTAMP: Stores date and time (also known as datetime) values in the following format: YYYY-MM-DD HH:MM:SS.</li></ul>
+
+<b>INDENTIFYING DATA TYPE:</b>
+To identify the data type of a table in our database we can use the following:
+```sql
+#SQL Syntax Example:
+PRAGMA table_info(<insert table name>)
+```
+Or depending on you sql flavour,
+```sql
+DESCRIBE <insert table name>
+```
+
