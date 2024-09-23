@@ -1,10 +1,10 @@
 <h2> Week 7: Constructing a Select Statement:</h2>
 
-In this segment well be learning the basic components of a select query. 
+In this segment we'll be learning the most basic components of a select query. You will learn how to access a table within your database and pull information. 
 
-SELECT: This is the fundamental clause for retrieving columns, or manipulated data pulled from tables specified in the "FROM" clause (see FROM) data from tables. 
-
-FROM: This clause identifies the table(s) from which you want to retrieve data. It's essential to tell SQL where to look for the information. In many instances, you will also need to reference the database in which the table is situated.
+<b>BASIC COMPONENTS OF A SELECT STATEMENT:</b>
+<ul><li>SELECT: This statement is fundamental for retrieving columns, or manipulated data pulled from tables specified in the FROM clause.</li>
+<li>FROM: This clause identifies the table(s) from which you want to retrieve data. It's essential to tell SQL where to look for information. In some instances, you may also need to reference the database in which the table is situated.</li></ul>
 
 Here's what you can do with the SELECT clause:
 
@@ -40,7 +40,7 @@ FROM table_a;
 
 This retrieves only unique values present in the "column_1" column of the "table_a" table.
 
-
+Using
 ALIASES: These are temporary names, which can be assigned to both columns and tables within a particular query. The assigned aliases used do not alter the original names stored in the database, but rather provide a more convenient and/or accurate way to reference them when writing a query. They are particularly useful when writing more complex queries.
 
 SQL Syntax Example:
