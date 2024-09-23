@@ -1,15 +1,17 @@
 <h2> Week 4: What is an SQL table?</h2>
 
 <b>Tabular Data Storage:</b>
-<p>Tabular data storage refers to organizing data in a table format consisting of rows (records) and columns.</p>
+<p>Tabular data storage refers to organizing data in a tabular format, often called a table or an entity, consisting of rows (records/entries) and columns (attributes/field).</p>
 <ul>
 <li><b>RECORD:</b> a record, also known as a row or an entry, represents an individual data entry</li>
-<li><b>COLUMN:</b> a column, also known as a field, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
+<li><b>COLUMN:</b> a column, also known as a field or attribute, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
 <li><b>VALUE:</b> a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
 </ul>
 
 <b> What is an SQL key? </b>
-<p> These are components of relational databases that help define relationships between tables and ensure data integrity. SQL keys are like identification numbers for rows in a database table. There are two main types: primary keys, and foreign keys.</p>
+<p> These are components of relational databases that help define relationships between tables and ensure data integrity. SQL keys are like identification numbers for rows in a database table. For instance, a bank
+account number uniquely identifies a bank account, a VIN number uniquely identifies a car, a social
+insurance or security number identifies a person. There are two main types: primary keys, and foreign keys.</p>
 
 <ul><li><b>PRIMARY KEY:</b>
 A primary key is a unique identifier for each record in a table. Let's go over some of the most frequently used primary key types:
