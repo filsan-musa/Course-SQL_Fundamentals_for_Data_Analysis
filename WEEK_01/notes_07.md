@@ -2,55 +2,71 @@
 
 In this segment we'll be learning the most basic components of a select query. You will learn how to access a table within your database and pull information. 
 
-<b>BASIC COMPONENTS OF A SELECT STATEMENT:</b>
+<b>BASIC COMPONENTS OF A SELECT QUERY:</b>
 <ul><li>SELECT: This statement is fundamental for retrieving columns, or manipulated data pulled from tables specified in the FROM clause.</li>
 <li>FROM: This clause identifies the table(s) from which you want to retrieve data. It's essential to tell SQL where to look for information. In some instances, you may also need to reference the database in which the table is situated.</li></ul>
 
+<b>SIMPLE SAMPLE QUERIES:</b>
+
 Here's what you can do with the SELECT clause:
 
-Select All: Use the asterisk (*) symbol to grab all columns from a table.
+<ul>
+<li>Single Column:
+    <p>Selecting one column to retrieve data from that column only. </li>
 
-SQL Syntax Example:
-SELECT *
-FROM table_a;
-
-This retrieves all columns from the table
-
-Single Column: Mention the specific column name to retrieve data from that column only.
-
-SQL Syntax Example:
+```sql
+# SQL Syntax Example: This retrieves only the values from column1 from table_a
 SELECT column_1
 FROM table_a;
+```
 
-This retrieves only the values from the "column1" column within the "table_name" table.
 
-Multiple Columns: List the column names you want to retrieve, separated by commas. The names should match the actual columns in your table.
+<li> Multiple Columns: 
+     <p>List the column names you want to retrieve, separated by commas. The names should match the actual columns in your table. </li>
 
-SQL Syntax Example:
+```sql
+# SQL Syntax Example: This query retrieves data from three columns, column1, column2, and column3 from table_a
 SELECT column_1, column_2, column_3
 FROM table_a;
+```
 
-This query retrieves data from three specific column1, column2, and column3 in a table named table_name.
+<li>All Columns: 
+    <p>Use the asterisk (*) symbol to grab all columns from a table.</p></li>
 
-DISTINCT: This keyword extracts all the unique values in a particular column, effectively eliminating duplicate entries from the result set.
+```sql
+# SQL Syntax Example: This retrieves all columns from table_a
+SELECT *
+FROM table_a;
+```
+</ul>
+<br>
 
-SQL Syntax Example:
+<b>DISTINCT:</b>
+
+This keyword extracts all the unique values in a particular column, effectively eliminating duplicate entries from the result set.
+
+```
+# SQL Syntax Example: This retrieves only unique values present in the "column_1" column of the "table_a" table.
 SELECT DISTINCT column_1
 FROM table_a;
+```
+<br>
 
-This retrieves only unique values present in the "column_1" column of the "table_a" table.
+<b>ALIASES:</b>
 
-Using
-ALIASES: These are temporary names, which can be assigned to both columns and tables within a particular query. The assigned aliases used do not alter the original names stored in the database, but rather provide a more convenient and/or accurate way to reference them when writing a query. They are particularly useful when writing more complex queries.
+These are temporary names, which can be assigned to both columns and tables within a particular query. The aliases used do not alter the original names of columns and tables as stored in the database, but rather provide a more convenient and/or accurate way to reference them when writing a query. In short, there are temporary nicknames chosen by the writer of the query, but are best to keep intuitive. Aliases are particularly useful when writing long and complex queries.
 
-SQL Syntax Example:
+```sql
+# SQL Syntax Example: The "AS" is a keyword, which preceeds the alias, is used as an identifier of the alias.
 SELECT column_1 AS alias_name
 FROM table_a AS alias_name;
+```
 
-column1: This refers to the actual name of the column in your table.
-AS:  "AS" is a keyword used to introduce the alias.
-DISCLAIMER: The “AS” is optional, and alias name can directly follow the old column or table name without the use of “AS”
+It is worth mentioning that the use of the “AS” keyword is optional, and alias can directly follow the old column or table name without the use of “AS”.
+
+```sql
+# SQL Syntax Example: Does not use the "AS" keyword which generally preceeds the alias.
 SELECT column_1 alias_name
 FROM database_a.table_a alias_name;	
-alias_name: This is the temporary nickname you choose for the column. It can be anything descriptive or shorter than the original name.
+```
 
