@@ -1,6 +1,6 @@
 <h2>Week 6: What are the SQL data types?</h2>
 
-<p> When creating a variable in SQL, it is important to specify the data type that the values stored in the variable will assume. This defines the storage requirements (ie. allocate memory, storage etc), valid operations, and potential values for the variable.</p>
+<p> When creating a variable in SQL, it is important to specify the data type that the values stored in the variable will assume. This defines the storage requirements (ie. allocate memory, storage etc), valid operations, and potential values for the variable. Here are most basic and common data types stored in relational databases:</p>
 
 <b>BOOLEAN:</b>
 <ul><li>BOOLEAN: Stores logical values (ie. True or False). These values can also take integer forms of 1 for True and 0 for false (essentially data is denoted by a single bit).</li></ul>
