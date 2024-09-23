@@ -1,5 +1,7 @@
 <h2>Week 6: What are the SQL data types?</h2>
 
+<p> In order to store variables, we need to specify the data types that the values will take on. This is done by declaring the variable with a specific type, which informs the programming language how to allocate memory and what operations can be performed on that variable.</p>
+
 <b>BOOLEAN:</b>
 <ul><li>BOOLEAN: Stores logical values (ie. True or False). These values can also take integer forms of 1 for True and 0 for false (essentially data is denoted by a single bit).</li></ul>
 
