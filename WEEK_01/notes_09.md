@@ -1,4 +1,4 @@
-<h2>Week 9: Limit, Order By, Group By </h2>
+<h2>Week 10: Limit, Order By, Group By </h2>
 
 <b>LIMIT: </b>
 <p>The limit clause allows you to specify the maximum number of rows to be returned by a SELECT statement. It's almost always placed at the end of the query. </p>
