@@ -1,4 +1,4 @@
-<h2> Week 10:  Where & Having Statements </h2>
+<h2> Week 11:  Where & Having Statements </h2>
 
 <b>WHERE:</b>
 <p>This clause allows you to filter data based on specific conditions. You can use comparison operators like "=", "<", ">", etc., and logical operators like "AND" and "OR" to refine your filter, which will be further covered in the following week.</p>
