@@ -1,4 +1,4 @@
-<h2>Week 11: Logical & Comparison Operators</h2>
+<h2>Week 12: Logical & Comparison Operators</h2>
 
 <b>What are Logical Operators?</b>
 <p>Logical operators are keywords that perform logical operations on boolean values (TRUE or FALSE) within your queries. They help refine your search criteria by combining conditions and filtering data based on specific requirements. Here is a breakdown of some most frequently used logical operators in SQL:</p>
