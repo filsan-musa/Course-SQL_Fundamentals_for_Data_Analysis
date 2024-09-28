@@ -1,4 +1,4 @@
-<h2> Week 4: What is an SQL table?</h2>
+<h2> Week 4: What is in a SQL table?</h2>
 
 <b>Tabular Data Storage:</b>
 <p>Tabular data storage refers to organizing data in a tabular format, often called a table or an entity, consisting of rows (records/entries) and columns (attributes/field).</p>
