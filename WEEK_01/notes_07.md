@@ -1,4 +1,4 @@
-<h2> Week 7: Constructing a Select Statement:</h2>
+<h2> Week 7: Constructing a Select Statement</h2>
 
 In this segment we'll be learning the most basic components of a select query. You will learn how to access a table within your database and pull information. 
 
