@@ -1,4 +1,4 @@
-<h2>Week 5: What are the types of SQL commands?</h2>
+<h2>Week 5: Understand SQL commands and components</h2>
 
 <p>There are four main types of SQL Commands: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language).</p>
 <center><img width="359" alt="Screenshot 2024-09-21 at 7 53 15 PM" src="https://github.com/user-attachments/assets/06046194-be7c-47b9-aed4-2dc446112fda"></center>
