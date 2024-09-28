@@ -85,7 +85,7 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Desc </ol></ol>
 <ol> c. Group By  </ol></ul>
 
-<ul><b> 11. <i> Week 11: Introduction to the Where & Having Statements </i></b>
+<ul><b> 11. <i> Week 11: Where & Having Clauses </i></b>
 <ol> a. Where </ol>
 <ol> b. Having </ol></ul>
 
