@@ -2,7 +2,7 @@
 
 <b> STRING FUNCTIONS </b>
 <ul>
-<li>LOWER()
+<li><b>LOWER()</b>
 <p>When you want to convert all characters in a string to lowercase. This is useful for ensuring case-insensitive comparisons or standardizing data.
 Application: Standardizing usernames for login purposes (all usernames in lowercase for easier comparison).</p></li>
 
@@ -11,7 +11,7 @@ SELECT LOWER(column_name) AS formatted_data
 FROM your_table
 ```
 
-<li>UPPER()
+<li><b>UPPER()</b>
 <p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
 Application: Converting product names to uppercase for a catalog.</p></li>
 
@@ -22,7 +22,7 @@ FROM your_table;
 </ul>
 <b>NUMERIC FUNCTIONS</b>
 <ul>
-<li>FLOOR()
+<li><b>FLOOR()</b>
 <p>When you want to round a number down to the nearest whole number (integer).
 Application: Calculating the whole number of items needed based on a fractional quantity (e.g., flooring 2.5 items to 2 items).</p></li>
 
@@ -31,7 +31,7 @@ SELECT FLOOR(numeric_column) AS rounded_down_value
 FROM your_table;
 ```
 
-<li>ROUND()
+<li><b>ROUND()</b>
 <p>When you want to round a number to a specified number of decimal places. You can round up, down, or to the nearest even number.
 Application: Rounding currency values to two decimal places for display purposes.</p></li>
 
@@ -70,6 +70,5 @@ Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</
 
 <b>DATETIME KEYWORDS</b>
 
-<li>
-  
+<li> CURRENT_TIME, CURRENT_DAY, 
 </li>
