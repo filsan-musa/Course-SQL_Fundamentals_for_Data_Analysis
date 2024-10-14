@@ -44,26 +44,26 @@ Note: The specific syntax for ROUND can vary slightly depending on the SQL platf
 
 <b>DATETIME FUNCTIONS</b>
 <ul>
-<li>TIME()
+<li><b>TIME()</b>
 <p>Extracts the time part from a datetime value, typically returning the current time or the time portion of a specific datetime. Time() returns the time in the format HH:MM:SS.<li>
 Example: If the datetime is 2024-09-16 14:30:45, Time() would return 14:30:45.</li></p></li>
 
-<li>DAY(): 
+<li><b>DAY():</b>
 <p>Extracts the day of the month from a given date or datetime, returning an integer value representing the day.
 Example: For the date 2024-09-16, Day() would return 16.</p></li>
 
-<li>MONTH(): 
+<li><b>MONTH():</b>
 <p>Extracts the month from a given date or datetime, returning an integer value representing the month.
 Example: For the date 2024-09-16, Month() would return 9.</p></li>
 
-<li>YEAR():
+<li><b>YEAR():</b>
 <p>Extracts the year from a given date or datetime, returning the year as a four-digit integer.
 Example: For the date 2024-09-16, Year() would return 2024.</p></li>
 
-<li>TIMESTAMP(): Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.
+<li><b>TIMESTAMP():</b> Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.
 Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</li>
 
-<li>DATE(): Extracts or returns the date part from a datetime value, typically ignoring the time portion.
+<li><b>DATE():</b> Extracts or returns the date part from a datetime value, typically ignoring the time portion.
 Usage: Date() returns a date in the format YYYY-MM-DD.
 Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</li>
 </ul>
