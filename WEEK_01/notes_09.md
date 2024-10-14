@@ -60,12 +60,14 @@ Example: For the date 2024-09-16, Month() would return 9.</p></li>
 <p>Extracts the year from a given date or datetime, returning the year as a four-digit integer.
 Example: For the date 2024-09-16, Year() would return 2024.</p></li>
 
-<li><b>TIMESTAMP():</b> Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.
-Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</li>
+<li><b>TIMESTAMP():</b> 
+<p>Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.
+Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</p></li>
 
-<li><b>DATE():</b> Extracts or returns the date part from a datetime value, typically ignoring the time portion.
+<li><b>DATE():</b> 
+<p>Extracts or returns the date part from a datetime value, typically ignoring the time portion.
 Usage: Date() returns a date in the format YYYY-MM-DD.
-Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</li>
+Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</p></li>
 </ul>
 
 <b>DATETIME KEYWORDS</b>
