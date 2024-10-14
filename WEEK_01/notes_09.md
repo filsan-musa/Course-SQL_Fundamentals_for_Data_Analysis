@@ -45,8 +45,8 @@ Note: The specific syntax for ROUND can vary slightly depending on the SQL platf
 <b>DATETIME FUNCTIONS</b>
 <ul>
 <li><b>TIME()</b>
-<p>Extracts the time part from a datetime value, typically returning the current time or the time portion of a specific datetime. Time() returns the time in the format HH:MM:SS.<li>
-Example: If the datetime is 2024-09-16 14:30:45, Time() would return 14:30:45.</li></p></li>
+<p>Extracts the time part from a datetime value, typically returning the current time or the time portion of a specific datetime. Time() returns the time in the format HH:MM:SS.</p>
+<p>Example: If the datetime is 2024-09-16 14:30:45, Time() would return 14:30:45.</p></li>
 
 <li><b>DAY():</b>
 <p>Extracts the day of the month from a given date or datetime, returning an integer value representing the day.
