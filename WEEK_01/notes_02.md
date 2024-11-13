@@ -1,13 +1,20 @@
 <h2>Week 2: What is SQL?</h2>
 
-<p><b>DATABASE:</b> A database is a compilation of data that is organized and stored in a way that allows for efficient retrieval, modification, and management. Typically, databases contain either structured, unstructured, or semi-structured data.</p>
+<p><b>DATABASE:</b> A database is a compilation of data that is organized and stored in a way that allows for efficient retrieval, modification, and management. Typically, databases contain either structured, unstructured, or semi-structured data. For instance, databases can store various types of data, such as text, numbers, images and even videos and audio files. </p>
 <ul>
-<li>Example: store various types of data, including images, text, and numbers.</li>
+.</li>
 <li><b>STRUCTURED:</b> Structured data refers to data that is organized in a pre-defined format, such as tables with rows and columns. Each piece of data is typically labeled and stored in a specific location within the database.</li>
 <ul><li>Example: SQL, Spreadsheets etc.</li></ul>
 <li><b>UNSTRUCTURED:</b> Unstructured data refers to data that does not have a pre-defined data structure. This type of data can include text documents, images, videos, and other multimedia files. Unstructured data is typically more difficult to analyze and process compared to structured data.</li>
 <ul><li>Example: NoSQL, Text Documents, PDFs etc.</li></ul>
 </ul>
+
+**Note: So far we've noted that a database is essentially a collect of data which can be either structured, unstructured or semi-structured. But how do then databases differ from datasets?
+
+<p><b> DATABASES VS. DATASETS <p></p>
+
+Many of you have encountered datasets before, whether in a science class back in high school, during 
+
 
 <p><b>RDBMS:</b> A relational database management system is a software system that enables users to create, manage, and interact with relational databases. Relational databases organize data into tables, which consist of rows and columns. RDBMSs use structured query language (SQL) to perform various operations on the data, such as querying, inserting, updating, and deleting records.</p>
 
