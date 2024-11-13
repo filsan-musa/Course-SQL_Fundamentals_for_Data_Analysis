@@ -16,7 +16,7 @@
 <li>Provide a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)</li></ul>
 
 <h4>ACCESS CONTENT:</h4>
-<b> What's the delivery method for the course</b>
+<b> What's the delivery method for the course?</b>
 <p>The course will be delivered mainly through short videos, ranging from 5 to 15 minutes. Video lectures will be posted to our Youtube channel on a weekly basis.</p>
 <b>How can I access the course content?</b>
 <p>In addition to the video lectures on YouTube, there will be links to the course repository on GitHub, which will contain the course syllabus, lecture slides, notes, manuals, and weekly quizzes.</p>
