@@ -14,7 +14,7 @@
 <p> The course will informally be split into two halves. In the first half, we'll explain the key concepts essential for understanding SQL. We'll address questions such as: What is an RDBMS? What are the different SQL flavour? What are the functions of primary and foreign keys? What are the various data types in SQL? etc. In the second half we'll get </p>
   Providing a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)
 
-<b>What are the course contents and objectives?</b>
+<h4>COURSE OBJECTIVE:</h4> 
 
 <h4>ACCESS CONTENT:</h4>
 <b> What's the delivery method for the course?</b>
