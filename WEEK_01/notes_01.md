@@ -10,10 +10,11 @@
 <b>What are the requirment?</b>
 <p>Everyone is welcome. This is an introductory course, so no previous knowledge of SQL or databases is required.</p>
 
-<h4>COURSE OVERVIEW:</h4>
+<h4>COURSE OVERVIEW:</h4> 
+<p> The course will informally be split into two halves. In the first half, we'll explain the key concepts essential for understanding SQL. We'll address questions such as: What is an RDBMS? What are the different SQL flavour? What are the functions of primary and foreign keys? What are the various data types in SQL? etc. In the second half we'll get </p>
+  Providing a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)
+
 <b>What are the course contents and objectives?</b>
-<ul><li>Explain key concepts which are fundamental to understanding SQL. We'll be answering questions like what is a RDBMS? What are SQL flavours? What the functions of primary and foreign key types? What are the different data types we'll encounter? etc. </li>
-<li>Provide a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)</li></ul>
 
 <h4>ACCESS CONTENT:</h4>
 <b> What's the delivery method for the course?</b>
