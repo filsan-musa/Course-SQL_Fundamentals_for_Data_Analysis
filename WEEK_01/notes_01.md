@@ -12,7 +12,7 @@
 
 <h4>COURSE OVERVIEW:</h4>
 <b>What are the course contents and objectives?</b>
-<ul><li>Explain key concepts fundamental to understanding SQL (ie. RDBMS, SQL flavours, different key types, data types etc.)</li>
+<ul><li>Explain key concepts which are fundamental to understanding SQL. We'll be answering questions like what is a RDBMS? What are SQL flavours? What the functions of primary and foreign key types? What are the different data types we'll encounter? etc. </li>
 <li>Provide a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)</li></ul>
 
 <h4>ACCESS CONTENT:</h4>
