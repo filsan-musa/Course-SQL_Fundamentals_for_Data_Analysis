@@ -6,9 +6,9 @@
 
 <h4>TARGET AUDIENCE:</h4>
 <b>Who is the course for?</b>
-<p>This course is designed for the aspiring data analyst, or anyone else who is interested in data science or learning sql in a general sense.</p>
+<p>This course is designed for the aspiring data analyst, or anyone else who is interested in data science or learning SQL in a general sense.</p>
 <b>What are the requirment?</b>
-<p>Everyone is welcome. This is an introductory course, and no previous knowledge of SQL or databases is required.</p>
+<p>Everyone is welcome. This is an introductory course, so no previous knowledge of SQL or databases is required.</p>
 
 <h4>COURSE OVERVIEW:</h4>
 <b>What are the course contents and objectives?</b>
