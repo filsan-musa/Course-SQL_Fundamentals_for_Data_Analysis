@@ -11,10 +11,18 @@
 <p>Everyone is welcome. This is an introductory course, so no previous knowledge of SQL or databases is required.</p>
 
 <h4>COURSE OVERVIEW:</h4> 
-<p> The course will informally be split into two halves. In the first half, we'll explain the key concepts essential for understanding SQL. We'll address questions such as: What is an RDBMS? What are the different SQL flavour? What are the functions of primary and foreign keys? What are the various data types in SQL? etc. In the second half we'll get </p>
+<p> The course will informally be split into two halves. In the first half, we'll explain the key concepts essential for understanding SQL. Here we'll address questions such as: What is an RDBMS? What are the different SQL flavour? What are the functions of primary and foreign keys? What are the various data types in SQL? etc. In the second half we'll dive into the more hands-on content in the course, and here we'll learn about the different components of writing SQL code, how to formalate a query  
+
+
+The course will be split into two halves. The first half will cover essential SQL concepts, addressing questions like: What is a Relational Database Management System (RDBMS)? What are the different SQL flavors? How do primary and foreign keys function? What data types does SQL support? In the second half, we'll dive into hands-on content, exploring SQL code components, query formulation, filtering, sorting, and aggregating data, as well as joining and subquerying tables. By the end of the course, you'll have a solid grasp of SQL fundamentals and be able to write efficient queries to extract insights from databases.</p>
   Providing a comprehensive overview of statements, functions, clauses, and operators important for basic data manipulation (ie. Select, Group By, Where, Having, Limit, Sum, Between etc.)
 
 <h4>COURSE OBJECTIVE:</h4> 
+
+<p> The objective of the course is to provide a working framework to understanding the basics of databases and how to formally write and execute SQL queries.
+
+
+he course objective is to equip you with a solid foundation in database fundamentals and practical SQL skills, enabling you to effectively write, execute, and optimize SQL queries."</p>
 
 <h4>ACCESS CONTENT:</h4>
 <b> What's the delivery method for the course?</b>
