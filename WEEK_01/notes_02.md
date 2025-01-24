@@ -11,7 +11,7 @@
 <ul><li>Example: NoSQL, Text Documents, PDFs, audio files.</li></ul>
 </ul>
 
-<p><b> DATABASES vs. DATASETS <p></p>
+<p><b> DATABASES vs. DATASETS </b></p>
 
 So far, we’ve established that a database is essentially a collection of data, which can be either structured, unstructured, or semi-structured. But how does a database differ from a dataset? Many of you have likely encountered datasets before—whether in a high school science or statistics class, a university course, or even in your professional work. To put it simply, a database is a system or mechanism designed for storing and managing data, while a dataset is a specific collection of related data points, often gathered from the same source or context.
 <ul>
