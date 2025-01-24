@@ -28,9 +28,8 @@
 <ol>2. Once on the page click on the menu icon and select download to download the zip file from GitHub on to your local computer.</ol>
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 33 08 AM" src="https://github.com/user-attachments/assets/458c7f2d-c679-45aa-ae23-789e35db6bb1"></ol>
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
-<ol>3. Once downloaded, go to your Downloads folder on yout desktop and unzip the file </ol>
-<ol>
-  and  the  the following GitHub link: https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis/blob/main/chinook.db </ol>
+<ol>3. Once downloaded, go to the downloads folder on your desktop and unzip the file. </ol>
+<ol>4. Upon successfully unzipping, you should see a file listed as chinook.db, you will need to upload this file to your SQLite-Online account.
 <br>
 
 <b>PART 3: Introduction to Chinook Database</b>
