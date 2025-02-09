@@ -59,10 +59,35 @@ LIMIT
 
 When writing your query there is much left to personal preference, however there are some common best practices for writing easy to read/follow code. In all instances consistency is most important. For instance, if you prefer to use upper cases, or lower cases when writing out a query.
 <ul>
-  1. Upper or Lowercase 
-  2. Leading Comma's or Trailing Comma's
-  3. Indents
+  <ol>1. Upper or Lowercase</ol>
+  <ol>2. Leading Comma's or Trailing Comma's</ol>
+  <ol>3. Indents</ol>
 </ul>
+
+
+```sql
+SELECT column_1
+      ,column_2
+      ,column_3
+      ,column_4
+FROM table _a
+WHERE column_1 > 10
+AND (column_2 IN 'CANADA'
+OR column_3 LIKE '%M%)
+```
+
+```sql
+select column_1,
+       column_2,
+       column_3,
+       column_4
+from table _a
+where column_1 > 10
+and (column_2 in 'CANADA'
+or column_3 like '%M%)
+```
+
+
 
 <p><b> VARIABLE NAMING CONVENTIONS</b></p>
 <p>When considering naming conventions in SQL, it's important to adopt practices that promote readability, consistency, and maintainability of your code. While you have some flexibility in how you name your variables, there are certain rules to follow. Some practices should be avoided entirely to avoid potential issues.</p>
@@ -106,7 +131,7 @@ Visible Errors:
 2. Logic 
 </ul>
 <ul>
-To debug code, you first must read and interpret the error message. If the message is not giving a specific error, it often includes the first effected line. This mean when resolving errors in SQL the first error encoured will be the only one listed
+To debug code, you first must read and interpret the error message. If the message is not giving a specific error, it often includes the first effected line. This mean when resolving errors in SQL the first error encountered will be the only one listed
 </ul>
 
 <p><b>REFERENCE A DATABASE</b></p>
