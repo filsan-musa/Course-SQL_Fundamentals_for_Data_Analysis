@@ -12,7 +12,7 @@
 <ol>2. Click the “profile” icon on the top-right corner of the navigation bar.</ol>
 <ol><img width="453" alt="Screenshot 2025-02-08 at 8 23 31 PM" src="https://github.com/user-attachments/assets/f9151be6-4d24-455d-8001-f0ff52ca083a"></ol>
 <ol>3. Click on the “Sign In” option in the drop down menu</ol>
-<ol><img width="433" alt="Screenshot 2025-02-08 at 8 26 22 PM" src="https://github.com/user-attachments/assets/03e27975-143a-4b9d-b744-44c6da780cfa"></ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 27 18 PM" src="https://github.com/user-attachments/assets/26135cb6-8659-4a33-96ad-bf9a35b0eaaa"></ol>
 <ol>4. Enter your email and password into the provided fields in the pop-up.</ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 11 36 AM" src="https://github.com/user-attachments/assets/1bd5e1b3-ead8-4ab4-af55-9fbd369e23ff"></ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 13 16 AM" src="https://github.com/user-attachments/assets/4f1802f7-2cb3-48c1-b87f-ae5819083e65"></ol>
