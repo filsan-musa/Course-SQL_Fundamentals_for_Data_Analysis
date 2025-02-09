@@ -71,7 +71,7 @@ Usage: Date() returns a date in the format YYYY-MM-DD.</p>
 </ul>
 
 <b>DATETIME KEYWORDS</b>
-
+<ul>
 <li><b> CURRENT_TIMESTAMP:</b>
 <p>Returns the current date and time, usually in the format YYYY-MM-DD HH:MM:SS. Alternatively, you can use CURRENT_DATE to extract the date, and CURRENT_TIME to extract the current time.</p>
 </li>
@@ -81,3 +81,4 @@ Usage: Date() returns a date in the format YYYY-MM-DD.</p>
 </li>
 
 Note: These are some of the most commonly used datetime keywords and are sufficient for an intro level understanding of datetime keywords.
+<ul>
