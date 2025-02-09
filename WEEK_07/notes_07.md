@@ -62,7 +62,7 @@ SELECT column_1 AS alias_name
 FROM table_a AS alias_name;
 ```
 
-It is worth mentioning that the use of the “AS” keyword is optional, and alias can directly follow the old column or table name without the use of “AS”.
+It is worth mentioning that the use of the “AS” keyword is optional, and alias can directly follow the original column or table name without the use of “AS”.
 
 ```sql
 # SQL Syntax Example: Does not use the "AS" keyword which generally preceeds the alias.
