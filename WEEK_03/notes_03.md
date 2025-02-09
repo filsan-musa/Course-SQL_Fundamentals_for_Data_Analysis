@@ -19,15 +19,14 @@
 <ol>5. After entering your new credentials click the “Create an account” button.</ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 15 04 AM" src="https://github.com/user-attachments/assets/5880884d-aa8a-4cec-93e4-0cfdfe29574c">
 </ol>
-<ol>5. Now that you’re done registering your account, you’ll need to verify your email. You should receive an email with a verification link attached.</ol>
+<ol>6. Now that you’re done registering your account, you’ll need to verify your email. You should receive an email with a verification link attached.</ol>
 <br>
 
 <b>PART 2A: Accessing the Database [Easier Method]</b>
 
 <ol>1. To access the database, first login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
-<ol>2. Select the “Chinook” database from the sample databases listed under example</ol>
+<ol>2. Select the “Chinook” database from the sample databases listed under example, and that should be it.</ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 36 53 AM" src="https://github.com/user-attachments/assets/b8c727ee-cdba-4157-8962-2db270593881"></ol>
-
 <br>
 
 
@@ -38,8 +37,11 @@
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
 <ol>3. Once downloaded, go to the downloads folder on your desktop and double the file to unzip. </ol>
 <ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.<img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24" />
-<ol>5. Login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
-<br>
+<ol>5. Login to your account: https://sqliteonline.com. (Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
+<ol>6.Click on "add" icon & then click on "Open SQLite DB" </ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 37 51 PM" src="https://github.com/user-attachments/assets/89a243ff-6532-49d6-aa09-854d8991fa30"></ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 43 22 PM" src="https://github.com/user-attachments/assets/5fcb898d-bd84-40e7-b24f-f889ef9e2022"></ol>
+<ol>7. Finally, you should have seen a popup showing your download, select the unzipped file from your downloads and that it.</ol>
 
 
 
