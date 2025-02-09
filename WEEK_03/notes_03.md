@@ -42,7 +42,7 @@
 <ol>6.Click on "add" icon & then click on "Open SQLite DB" </ol>
 <ol><img width="433" alt="Screenshot 2025-02-08 at 8 37 51 PM" src="https://github.com/user-attachments/assets/89a243ff-6532-49d6-aa09-854d8991fa30"></ol>
 <ol><img width="433" alt="Screenshot 2025-02-08 at 8 43 22 PM" src="https://github.com/user-attachments/assets/5fcb898d-bd84-40e7-b24f-f889ef9e2022"></ol>
-<ol>7. Finally, you should have seen a popup showing your download, select the unzipped file from your downloads and that it.</ol>
+<ol>7. Finally, you should see a popup showing your downloads folder, select the unzipped file from your downloads and that it.</ol>
 
 
 
