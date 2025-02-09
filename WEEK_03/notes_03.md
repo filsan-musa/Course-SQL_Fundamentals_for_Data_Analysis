@@ -1,6 +1,6 @@
 <h2>Week 3: Getting Started with SQL</h2>
 
-<b>INTRODUCTION TO THE CHINOOK DATABASE</b>
+<b>Introduction to the Chinook Database</b>
 
 <p> The Chinook database, developed in the early 2000s by Luis Rocha, has become a popular sample database for those learning and practicing SQL. Designed to represent a digital media store, it simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, each serving a distinct purpose. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
 </p>
