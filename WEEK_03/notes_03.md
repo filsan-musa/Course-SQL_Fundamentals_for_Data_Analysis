@@ -1,9 +1,17 @@
 <h2>Week 3: Getting Started with SQL</h2>
 
+<b>Introduction to the Chinook Database</b>
+
+<p> The Chinook database, developed in the early 2000s by Luis Rocha, has become a popular sample database for those learning and practicing SQL. Designed to represent a digital media store, it simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, each serving a distinct purpose. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
+</p>
+
+
 <b>PART 1: Setting Up Online SQLite</b>
 
 <ol>1. Go to the following website: https://sqliteonline.com</ol>
 <ol>2. Click the “Sign In” button on the top-right corner of the navigation bar.</ol>
+<ol><img width="455" alt="Screenshot 2025-02-08 at 8 22 10 PM" src="https://github.com/user-attachments/assets/b691d0a4-557a-4413-823c-135dff594f5a"></ol>
+
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 10 17 AM" src="https://github.com/user-attachments/assets/12908e68-c001-4a90-ac6b-bbddc925c24a"></ol>
 <ol>3. Enter your email and password into the provided fields in the pop-up.</ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 11 36 AM" src="https://github.com/user-attachments/assets/1bd5e1b3-ead8-4ab4-af55-9fbd369e23ff"></ol>
@@ -16,7 +24,7 @@
 
 <b>PART 2A: Accessing the Database [Easier Method]</b>
 
-<ol>1. To access the database, first login to your account.(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
+<ol>1. To access the database, first login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
 <ol>2. Select the “Chinook” database from the sample databases listed under example</ol>
 <ol><img width="429" alt="Screenshot 2024-09-14 at 2 36 53 AM" src="https://github.com/user-attachments/assets/b8c727ee-cdba-4157-8962-2db270593881"></ol>
 
@@ -30,13 +38,9 @@
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
 <ol>3. Once downloaded, go to the downloads folder on your desktop and double the file to unzip. </ol>
 <ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.<img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24" />
-
+<ol>5. Login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
 <br>
 
-<b>PART 3: Introduction to Chinook Database</b>
-
-<p> The Chinook database, developed in the early 2000s by Luis Rocha, has become a popular sample database for those learning and practicing SQL. Designed to represent a digital media store, it simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, each serving a distinct purpose. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
-</p>
 
 
 
