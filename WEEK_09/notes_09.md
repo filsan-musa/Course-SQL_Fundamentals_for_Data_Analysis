@@ -46,31 +46,38 @@ Note: The specific syntax for ROUND can vary slightly depending on the SQL platf
 <ul>
 <li><b>TIME()</b>
 <p>Extracts the time part from a datetime value, typically returning the current time or the time portion of a specific datetime. Time() returns the time in the format HH:MM:SS.</p>
-<p>Example: If the datetime is 2024-09-16 14:30:45, Time() would return 14:30:45.</p></li>
+<p><i>Example: If the datetime is 2024-09-16 14:30:45, Time() would return 14:30:45.</i></p></li>
 
 <li><b>DAY():</b>
-<p>Extracts the day of the month from a given date or datetime, returning an integer value representing the day.
-Example: For the date 2024-09-16, Day() would return 16.</p></li>
+<p>Extracts the day of the month from a given date or datetime, returning an integer value representing the day</p>
+<p><i>Example: For the date 2024-09-16, Day() would return 16.</i></p></li>
 
 <li><b>MONTH():</b>
-<p>Extracts the month from a given date or datetime, returning an integer value representing the month.
-Example: For the date 2024-09-16, Month() would return 9.</p></li>
+<p>Extracts the month from a given date or datetime, returning an integer value representing the month.</p>
+<p><i>Example: For the date 2024-09-16, Month() would return 9.</i></p></li>
 
 <li><b>YEAR():</b>
-<p>Extracts the year from a given date or datetime, returning the year as a four-digit integer.
-Example: For the date 2024-09-16, Year() would return 2024.</p></li>
+<p>Extracts the year from a given date or datetime, returning the year as a four-digit integer.</p>
+<p><i>Example: For the date 2024-09-16, Year() would return 2024.</i></p></li>
 
 <li><b>TIMESTAMP():</b> 
-<p>Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.
-Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</p></li>
+<p>Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.</p>
+<p><i>Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</i></p></li>
 
 <li><b>DATE():</b> 
 <p>Extracts or returns the date part from a datetime value, typically ignoring the time portion.
-Usage: Date() returns a date in the format YYYY-MM-DD.
-Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</p></li>
+Usage: Date() returns a date in the format YYYY-MM-DD.</p>
+<p><i>Example: For the datetime 2024-09-16 14:30:45, Date() would return 2024-09-16.</i></p></li>
 </ul>
 
 <b>DATETIME KEYWORDS</b>
 
-<li> CURRENT_TIME, CURRENT_DAY, 
+<li><b> CURRENT_TIMESTAMP:</b>
+<p>Returns the current date and time, usually in the format YYYY-MM-DD HH:MM:SS. Alternatively, you can use CURRENT_DATE to extract the date, and CURRENT_TIME to extract the current time.</p>
 </li>
+
+<li><b> NOW():</b>
+<p>Returns the current date and time, in the format YYYY-MM-DD HH:MM:SS. The NOW() function does not work in SQLite which is used in this course, but is popular in other flavours of SQL (ie. MySQL, PostgreSQL, MariaDB). CURRENT_TIMESTAMP is generally more widely supported and more standardized than NOW().</p>
+</li>
+
+Note: These are some of the most commonly used datetime keywords and are sufficient for an intro level understanding of datetime keywords.
