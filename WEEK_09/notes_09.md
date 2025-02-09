@@ -79,6 +79,5 @@ Usage: Date() returns a date in the format YYYY-MM-DD.</p>
 <li><b> NOW():</b>
 <p>Returns the current date and time, in the format YYYY-MM-DD HH:MM:SS. The NOW() function does not work in SQLite which is used in this course, but is popular in other flavours of SQL (ie. MySQL, PostgreSQL, MariaDB). CURRENT_TIMESTAMP is generally more widely supported and more standardized than NOW().</p>
 </li>
-
+</ul>
 Note: These are some of the most commonly used datetime keywords and are sufficient for an intro level understanding of datetime keywords.
-<ul>
