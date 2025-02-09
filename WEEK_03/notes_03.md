@@ -36,7 +36,8 @@
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 33 08 AM" src="https://github.com/user-attachments/assets/458c7f2d-c679-45aa-ae23-789e35db6bb1"></ol>
 <ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
 <ol>3. Once downloaded, go to the downloads folder on your desktop and double the file to unzip. </ol>
-<ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.<img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24" />
+<ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.
+<ol><img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24"></ol>
 <ol>5. Login to your account: https://sqliteonline.com. (Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
 <ol>6.Click on "add" icon & then click on "Open SQLite DB" </ol>
 <ol><img width="433" alt="Screenshot 2025-02-08 at 8 37 51 PM" src="https://github.com/user-attachments/assets/89a243ff-6532-49d6-aa09-854d8991fa30"></ol>
