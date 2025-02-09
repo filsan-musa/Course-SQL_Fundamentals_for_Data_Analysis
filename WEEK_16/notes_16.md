@@ -64,20 +64,58 @@ When writing your query there is much left to personal preference, however there
   3. Indents
 </ul>
 
-<b> VARIABLE NAMING CONVENTIONS</b>
-When considering namimg conventions in SQL we can make some choices, but there are a few things that should never be done when naming your variable. Generally, we want to avoid using a "-" since this something that SQL cannot handle.
-1. SNAKECASE, CAMELCASE, PASCALCASE
+<p><b> VARIABLE NAMING CONVENTIONS</b></p>
+<p>When considering naming conventions in SQL, it's important to adopt practices that promote readability, consistency, and maintainability of your code. While you have some flexibility in how you name your variables, there are certain rules to follow. Some practices should be avoided entirely to avoid potential issues.</p>
 
-d. Common Errors & Debugging
+<ul>
+<p>1. <b>Avoid Using Special Characters:</b></p>
+<ol><p> Avoid using hyphens (`-`), spaces or other special character (ie. @, $, * etc.) in variable names, as these can cause syntax errors or other issues in SQL queries. SQL doesn't handle hyphens well because it interprets them as subtraction operators. As a general rule of thumb, refrain from ever using hyphens for naming variable since they can't be handled by most programming languages (ie. Python, C++, and Java to name a few).</p></ol>
 
+<p> In other words, <b><u>DO NOT</u></b> use naming convention methods such as the Kebab Case (<code>kebab-case</code>) or Train Case (<code>Train-Case</code>).</p>
+
+<p>2. <b>Common Naming Conventions:</b></p>
+<ul>
+<p>
+  <li><b>Snake Case (<code>snake_case</code>):</b> This convention uses underscores to separate words. It is often used in SQL to name columns, tables, and variables.</li>
+  <o><i>Example: `order_total_amount`, `customer_id`.</i></o>
+  <li><b>Camel Case (<code>camelCase</code>):</b> In this style, the first letter of the first word is lowercase, and the first letter of subsequent words is uppercase. This is often used in programming languages like JavaScript, but less common in SQL.</li>
+<o><i>Example: `orderTotalAmount`, `customerId`.</i></o>
+  <li><b>Pascal Case (<code>PascalCase</code>):</b> Similar to CamelCase but with the first letter of the first word capitalized. Pascal case is more common in object-oriented programming but not widely used in SQL</li> 
+<o><i>Example: `OrderTotalAmount`, `CustomerId`.</i></o>
+</p>
+</ul>
+
+
+
+<p>3. <b>Best Practices:</b></p>
+<ul>
+  <li><b>Consistency:</b> Choose one naming convention and stick to it throughout your database schema and queries. Consistency will help keep your codebase organized and easy to read</li>
+  <li><b>Clarity:</b> Use descriptive names for your variables that clearly indicate the nature of the information stored in said variable. Avoid abbreviations unless they are widely recognized (e.g., `uid` for unique identifier, or 'ip' for internet protocol address).</li>
+  <li><b>Brief:</b> While being descriptive when naming your variable is desireable, avoid excessively long or overly descriptive variable names. Aim for brevity without sacrificing clarity.</li>
+  <li><b>Avoid Reserved Keywords:</b> Never use SQL reserved keywords like <code>SELECT</code>, <code>WHERE</code>, or <code>TABLE</code> as variable names. This can lead to errors or ambiguity in your queries.</li>
+  <li><b>Use Singular Names for Tables:</b> Use singular names for table names (e.g., `customer` instead of `customers`). It is a commonly accepted convention to treat tables as individual entities.</li>
+  <li><b>Use Plural Names for Collections:</b> While singular for tables is a common convention, use plural names when referencing collections of entities, like `orders` or `products`.</li>
+</ul>
+</ul>
+
+<p><b>COMMON ERRORS & DEBUGGING</b></p>
+<p>Errors are often some of the most annoying and common issues to occur when writing code. </p>
+<ul>
+Visible Errors:
 1. Syntax Errors
-2. Logic Errors
+2. Logic 
+</ul>
+<ul>
+To debug code, you first must read and interpret the error message. If the message is not giving a specific error, it often includes the first effected line. This mean when resolving errors in SQL the first error encoured will be the only one listed
+</ul>
 
-e. Reference a Database
-In the case that you are dealing with a large number of databases to pull data from, you may need to reference the specific database in which the table you're referencing originates. 
+<p><b>REFERENCE A DATABASE</b></p>
+<p>In the cases where you are encounter a large number of databases to pull data from, you may need to specify the database that contains the table you want to query. This is also helpful to avoid pulling from similarly named tables which may exist in another database.</p>
 
 ```sql
 SELECT column_1
       ,column_2
       ,column_3
 FROM database_a.table_a
+```
+<p>Note: <code>database_a.table_a</code>: This syntax allows you to specify that you're querying the <code>table_a</code> table from <code>database_a</code>, ensuring the correct database context is used when executing the query.</p>
