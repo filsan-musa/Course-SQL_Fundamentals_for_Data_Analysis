@@ -11,7 +11,6 @@ SELECT c.name, o.product
 FROM customers c
 LEFT JOIN orders o ON c.customerid = o.customerid 
 ```
-<ol>In this  example will return all customers, even those who haven’t placed any orders( their Product field will be  NULL).</ol>
 
 <li><b>Right Join (Right Outer Join):</b> A right join works similarly to a left join,  but in reverse. It returns all rows from the right table (the table mentioned second in the query) and corresponding  rows from the right table (the table mentioned first) that meet a specific criteria or set of criteria. Unmatched rows from the left table will have NULL values in their corresponding entries . 
 Application: Use a right join when you’re primarily interested in data from the right table and want to see if there’s any matching data in the left table. </li>
