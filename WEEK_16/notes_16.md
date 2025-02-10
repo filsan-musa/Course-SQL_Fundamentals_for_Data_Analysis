@@ -1,4 +1,4 @@
-Week 16: How to properly structure a Query
+<h1>Week 16: How to properly structure a Query</h1>
 
 <b>QUERY ORDER</b>
 <p>When writing a query in SQL we should know that the placements of different components are very important, however here is a general layout of where different components should be:</p>
@@ -79,8 +79,7 @@ where column_1 > 10
 and (column_2 in 'CANADA'
 or column_3 like '%M%)
 ```
-
-
+<p>When writing code it’s best to think of the UX, can people easily understand the logic of your code. Remember that following best practices when writing code is also very helpful for debugging errors.</p>
 
 <p><b> VARIABLE NAMING CONVENTIONS</b></p>
 <p>When considering naming conventions in SQL, it's important to adopt practices that promote readability, consistency, and maintainability of your code. While you have some flexibility in how you name your variables, there are certain rules to follow. Some practices should be avoided entirely to avoid potential issues.</p>
@@ -117,14 +116,20 @@ or column_3 like '%M%)
 </ul>
 
 <p><b>COMMON ERRORS & DEBUGGING</b></p>
-<p>Errors are often some of the most annoying and common issues to occur when writing code. </p>
+<p>Errors are often some of the most annoying and common issues to occur when writing code. Whether it's a simple syntax mistake or a more complex logic issue, errors are an inevitable part of programming. Knowing how to debug effectively is essential in resolving them and ensuring that the code runs smoothly.</p>
 <ul>
-Visible Errors:
-1. Syntax Errors
-2. Logic 
+<p>1. <b>Syntax Errors:</b> These are the most basic type of errors. They occur when the code does not follow the correct syntax of the programming language. Common causes include missing parentheses, extra commas, or incorrect keyword usage. Syntax errors are often easy to spot and fix because they are usually pointed out by the compiler or interpreter.</p>
+<p>2. <b>Logic Errors:</b> Logic errors occur when the code runs without crashing, but the output is not what you expect. These errors are trickier because they do not produce visible error messages and can be difficult to identify. They usually stem from incorrect algorithms, faulty conditions in loops, or wrong assumptions about the data being processed.</p>
 </ul>
+
+<p>To debug code, you first must read and interpret the error message. If the message is not giving a specific error, it often includes the first effected line. This means when resolving errors in SQL the first error encountered will be the only one listed.</p>
+
 <ul>
-To debug code, you first must read and interpret the error message. If the message is not giving a specific error, it often includes the first effected line. This mean when resolving errors in SQL the first error encountered will be the only one listed
+<li><b>Check the error message carefully:</b> If the message is not giving a specific error, it often includes the first affected line or a clue pointing to where things went wrong.</li>
+<li><b>Understand the context:</b> Sometimes errors can arise from data issues or unexpected input. Make sure to check the inputs and the expected output before diving into the code.</li>
+<li><b>Isolate the problem:</b> For SQL queries, the first error encountered will typically be the only one listed. If multiple issues exist, the first error message will often prevent the rest of the code from executing. It’s a good idea to correct the first error, test the code, and then move on to subsequent errors.</li>
+<li><b>Use debugging tools:</b> Tools like IDE debuggers, SQL EXPLAIN plans, or print statements can help you step through the code and see where things might be going wrong.</li>
+<li><b>Test frequently:</b> Running your code in small increments and checking the output frequently helps catch errors early. It’s much easier to fix smaller issues than to track down larger problems in a long piece of code.</li>
 </ul>
 
 <p><b>REFERENCE A DATABASE</b></p>
