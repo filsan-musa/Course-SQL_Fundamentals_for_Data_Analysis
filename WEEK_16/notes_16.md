@@ -24,31 +24,24 @@ SELECT
         WHEN column_3 > 10 THEN 'High'
         ELSE 'Low'
     END AS column_3_status   -- Example of CASE WHEN
-
 FROM 
     -- List table, and database if necessary
     database_name.table_name
-
 JOIN 
     -- This is where you would list joining tables
     another_table ON table_name.id = another_table.id  -- Example of an INNER JOIN
-
 WHERE 
     -- Apply your conditions here
     column_1 = 'A' AND column_2 > 100  -- Example condition
-
 GROUP BY 
     -- Group by necessary columns (often for aggregation)
     column_1
-
 HAVING 
     -- Apply conditions to grouped results
     SUM(column_2) > 50  -- Example: Only include groups where sum of column_2 is greater than 50
-
 ORDER BY 
     -- Sort the results (can be ascending or descending)
     column_1 ASC, column_2 DESC  -- Sorting first by column_1 ascending, then column_2 descending
-
 LIMIT 
     -- Limit the number of rows if necessary
     10;  -- Limit the result to the first 10 rows
