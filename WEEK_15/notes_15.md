@@ -42,5 +42,6 @@ FULL JOIN table_b AS b ON a.column_1 = b.column_2
 FULL JOIN table_c AS c ON a.column_1 = c.column_3
 ```
 
-![image](https://github.com/user-attachments/assets/43670ded-3381-48cb-b71f-216b86a0d8c9)
+<img width="1010" alt="Screenshot 2025-02-10 at 11 16 19 PM" src="https://github.com/user-attachments/assets/40679a2a-e6af-4ccb-9fbb-5d6c6b2b677e" />
+
 
