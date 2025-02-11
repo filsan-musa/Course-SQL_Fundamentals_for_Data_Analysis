@@ -54,7 +54,7 @@ FROM table_a;
 
 <b>ALIASES:</b>
 
-These are temporary names, which can be assigned to both columns and tables within a particular query. The aliases used do not alter the original names of columns and tables as stored in the database, but rather provide a more convenient and/or accurate way to reference them when writing a query. In short, there are temporary nicknames chosen by the writer of the query, but are best to keep intuitive. Aliases are particularly useful when writing long and complex queries.
+These are temporary names, which can be assigned to name both columns and tables within a particular query. The aliases used do not alter the original names of columns and tables as stored in the database, but rather provide a more convenient and/or accurate way to reference them when writing a query. In short, there are temporary nicknames chosen by the writer of the query, but are best to keep intuitive. Aliases are particularly useful when writing long and complex queries.
 
 ```sql
 # SQL Syntax Example: The "AS" is a keyword, which preceeds the alias, is used as an identifier of the alias.
