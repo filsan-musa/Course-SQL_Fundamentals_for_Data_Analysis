@@ -79,7 +79,6 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Timestamp(), Date()</ol></ol>
 <ol><ol> iii. Current_Timestamp, Current_Time, etc.</ol></ol></ul>
 
-
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
 <ol> b. Order By </ol>
@@ -91,19 +90,19 @@ There are no required prerequisites for this course.
 <ol> a. Where </ol>
 <ol> b. Having </ol></ul>
 
-<ul><b> 12. <i> Week 10: Logical & Comparison Operators </i></b>
-<ol> a. And / Or  / Between / In </ol>
-<ol> b. Not / Is (Not) Null </ol>
-<ol> c. Like </ol>
-<ol> d. Greater (Than) / Less (Than) </ol>
-<ol> e. Equality / Inequality </ol></ul>
-
-<ul><b> 13. <i> Week 13: Arithmetic Operators </i></b>
+<ul><b> 12. <i> Week 12: Arithmetic Operators </i></b>
 <ol> a. Addition </ol>
 <ol> b. Subtraction </ol>
 <ol> c. Product </ol>
 <ol> d. Division </ol>
 <ol> e. Modulo </ol></ul>
+
+<ul><b> 13. <i> Week 13: Logical & Comparison Operators </i></b>
+<ol> a. And / Or  / Between / In </ol>
+<ol> b. Not / Is (Not) Null </ol>
+<ol> c. Like </ol>
+<ol> d. Greater (Than) / Less (Than) </ol>
+<ol> e. Equality / Inequality </ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
