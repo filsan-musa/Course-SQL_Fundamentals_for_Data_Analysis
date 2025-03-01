@@ -78,7 +78,7 @@ There are no required prerequisites for this course.
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
 <ol><ol> ii. Timestamp(), Date()</ol></ol>
 <ol> d. Datetime Keywords </ol>
-<ol><ol> i. Current_Timestamp, Current_Time, etc.</ol></ol></ul>
+<ol><ol> i. Current_Timestamp, Current_Time, Now()</ol></ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
