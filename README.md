@@ -17,7 +17,7 @@ There are no required prerequisites for this course.
 
 <h3> Course Format: </h3>
 
-<li><b> Platform:</b> YouTube </li>
+<li><b>Platform:</b> YouTube (<a href="https://www.youtube.com/@TheDataArchives">@TheDataArchives</a>)</li>
 
 <li><b> Duration:</b> < 15 minutes </li>
 
@@ -125,6 +125,7 @@ There are no required prerequisites for this course.
 
 <b> Course Material: </b>
 <p> https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis </p>
+<p> </p>
 
 <b> Resources (Optional): </b>
 <p> Oppel, A., & Sheldon, R. (2009). SQL A Beginner's Guide (3rd ed.). McGraw Hill. Retrieved from <a href="https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-%26-manuels-informatiques/Sql/SQL-%20A%20Beginner%27s%20Guide%2C%203rd%20Edition.pdf"> SQL: A Beginner's Guide </a></p>
