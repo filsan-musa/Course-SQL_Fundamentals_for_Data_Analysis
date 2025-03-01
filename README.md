@@ -99,11 +99,13 @@ There are no required prerequisites for this course.
 <ol> e. Modulo </ol></ul>
 
 <ul><b> 13. <i> Week 13: Logical & Comparison Operators </i></b>
-<ol> a. And / Or  / Between / In </ol>
-<ol> b. Not / Is (Not) Null </ol>
-<ol> c. Like </ol>
-<ol> d. Greater (Than) / Less (Than) </ol>
-<ol> e. Equality / Inequality </ol></ul>
+ <ol> a. Logical Operators </ol>
+<ol><ol> i. And / Or  / Between / In </ol>
+<ol> ii. Not / Is (Not) Null </ol>
+<ol> iii. Like </ol></ol>
+<ol> b. Comparison Operators</ol>
+<ol><ol> i. Greater (Than) / Less (Than) </ol>
+<ol> ii. Equality / Inequality </ol></ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
