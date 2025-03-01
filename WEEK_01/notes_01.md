@@ -16,7 +16,7 @@
 
 <h4>COURSE OBJECTIVE:</h4> 
 
-<p> The objective of the course is to provide a working framework to understanding the basics of databases and how to formally write and execute SQL queries. The course, which is intended as an introductory course,  focuses heavily on data retrieval techniques with the goal of equippong students with the essential tools to analyze and manipulate data for real-world applications.</p>
+<p> The objective of the course is to provide a working framework to understanding the basics of databases and how to formally write and execute SQL queries. The course, which is intended as an introductory course,  focuses heavily on data retrieval techniques with the goal of equipping students with the essential tools to analyze and manipulate data for real-world applications.</p>
 
 <h4>ACCESS CONTENT:</h4>
 <b> What's the delivery method for the course?</b>
