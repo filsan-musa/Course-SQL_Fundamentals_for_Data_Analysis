@@ -62,7 +62,7 @@ Note: The specific syntax for ROUND can vary slightly depending on the SQL platf
 
 <li><b>TIMESTAMP():</b> 
 <p>Represents a specific point in time, including both date and time, typically returns the date and time or can be used to represent a specific moment in time with the format YYYY-MM-DD HH:MM:SS.</p>
-<p><i>Example: If the current date and time are 2024-09-16 14:30:45, the Timestamp() function might return this exact value.</i></p></li>
+<p><i>Example: If the current date is 2024-09-16 and time is unknown, the Timestamp() function will return this exact value: 2024-09-16 00:00:00.</i></p></li>
 
 <li><b>DATE():</b> 
 <p>Extracts or returns the date part from a datetime value, typically ignoring the time portion.
