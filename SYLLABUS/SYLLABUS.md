@@ -125,57 +125,7 @@ There are no required prerequisites for this course.
 
 <b> Course Material: </b>
 <p> https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis </p>
-
-<b> Resources (Optional): </b>
-<p> Oppel, A., & Sheldon, R. (2009). SQL A Beginner's Guide (3rd ed.). McGraw Hill. Retrieved from <a href="https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-%26-manuels-informatiques/Sql/SQL-%20A%20Beginner%27s%20Guide%2C%203rd%20Edition.pdf"> SQL: A Beginner's Guide </a></p>
-<p> W3Schools. (n.d.). SQL Tutorial. Retrieved from <a href="https://www.w3schools.com/sql/default.asp"> W3Schools SQL Tutorial </a></p><ol><ol> ii. Timestamp(), Date() </ol></ol></ul>
-
-<ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
-<ol> a. Limit </ol>
-<ol> b. Order By </ol>
-<ol><ol> i. Asc </ol></ol>
-<ol><ol> ii. Desc </ol></ol>
-<ol> c. Group By  </ol></ul>
-
-<ul><b> 11. <i> Week 11: Introduction to the Where & Having Statements </i></b>
-<ol> a. Where </ol>
-<ol> b. Having </ol></ul>
-
-<ul><b> 12. <i> Week 10: Logical & Comparison Operators </i></b>
-<ol> a. And / Or  / Between / In </ol>
-<ol> b. Not / Is (Not) Null </ol>
-<ol> c. Like </ol>
-<ol> d. Greater (Than) / Less (Than) </ol>
-<ol> e. Equality / Inequality </ol></ul>
-
-<ul><b> 13. <i> Week 13: Arithmetic Operators </i></b>
-<ol> a. Addition </ol>
-<ol> b. Subtraction </ol>
-<ol> c. Product </ol>
-<ol> d. Division </ol>
-<ol> e. Modulo </ol></ul>
-
-<ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
-<ol> a. Using case when w/ logical & comparison operators</ol>
-<ol> b. Using case when w/ arithmetic operators</ol></ul>
-
-<ul><b> 15. <i> Week 15: Introduction to Joins </i></b>
-<ol> a. Left Join </ol>
-<ol> b. Right Join </ol>
-<ol> c. Inner Join </ol>
-<ol> d. Outer Join </ol></ul>
-
-<ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
-<ol> a. Query Order </ol>
-<ol> b. Query Format </ol>
-<ol> c. Variable naming conventions </ol></ul>
-<ol> d. Common Errors & Debugging </ol>
-<ol> e. Reference a Database  </ol>
-
-<br>
-
-<b> Course Material: </b>
-<p> https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis </p>
+<p> </p>
 
 <b> Resources (Optional): </b>
 <p> Oppel, A., & Sheldon, R. (2009). SQL A Beginner's Guide (3rd ed.). McGraw Hill. Retrieved from <a href="https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-%26-manuels-informatiques/Sql/SQL-%20A%20Beginner%27s%20Guide%2C%203rd%20Edition.pdf"> SQL: A Beginner's Guide </a></p>
