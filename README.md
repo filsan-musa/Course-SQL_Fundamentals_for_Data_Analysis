@@ -27,7 +27,7 @@ There are no required prerequisites for this course.
  <ol> a. Access to course content </ol>
 <ol> b. Overview of material </ol></ul>
 
-<ul><b> 2. <i> Week 2: What is SQL? </i></b>
+<ul><b> 2. <i> Week 2: Understanding Databases, SQL, and Key Concepts </i></b>
 <ol> a. What is a database? </ol>
 <ol> b. What is a RDBMS? </ol>
 <ol> c. Define SQL </ol>
