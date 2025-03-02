@@ -94,7 +94,7 @@ There are no required prerequisites for this course.
 <ul><b> 12. <i> Week 12: Arithmetic Operators </i></b>
 <ol> a. Addition </ol>
 <ol> b. Subtraction </ol>
-<ol> c. Product </ol>
+<ol> c. Multiplication </ol>
 <ol> d. Division </ol>
 <ol> e. Modulo </ol></ul>
 
