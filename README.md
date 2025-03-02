@@ -41,8 +41,9 @@ There are no required prerequisites for this course.
 
 <ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
-<ol> b. Primary key </ol>
-<ol> c. Foreign key </ol></ul>
+<ol> b. Components of a table </ol>
+<ol> c. Primary key </ol>
+<ol> d. Foreign key </ol></ul>
 
 <ul><b> 5. <i> Week 5: Understanding SQL commands and components</i></b> 
 <ol> a. Types of SQL commands </ol>
