@@ -29,21 +29,21 @@ SELECT AVG(column_1)
 FROM table_a;
 ```
 
-<b>MAX:</b>
-<p>This function identifies the highest value within a numeric column.</p>
-
-```sql
-# SQL Syntax Example: Finds the maximum (highest) value in column_1 in table_a
-SELECT MAX(column_1) 
-FROM table_a;
-```
-
 <b>MIN:</b>
 <p>This function identifies the lowest value within a numeric column.</p>
 
 ```sql
 # SQL Syntax Example: Finds the minimum (lower) value in column_1 in table_a
 SELECT MIN(column_1) 
+FROM table_a;
+```
+
+<b>MAX:</b>
+<p>This function identifies the highest value within a numeric column.</p>
+
+```sql
+# SQL Syntax Example: Finds the maximum (highest) value in column_1 in table_a
+SELECT MAX(column_1) 
 FROM table_a;
 ```
 </ul>
