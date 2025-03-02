@@ -42,7 +42,7 @@ There are no required prerequisites for this course.
 <ol> b. Primary key </ol>
 <ol> c. Foreign key </ol></ul>
 
-<ul><b> 5. <i> Week 5: Understand SQL commands and components</i></b> 
+<ul><b> 5. <i> Week 5: Understanding SQL commands and components</i></b> 
 <ol> a. Types of SQL commands </ol>
 <ol> b. Components of a query</ol></ul>
 
