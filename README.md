@@ -117,7 +117,7 @@ There are no required prerequisites for this course.
 <ol> c. Inner Join </ol>
 <ol> d. Outer Join </ol></ul>
 
-<ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
+<ul><b> 16. <i> Week 16: Structuring a proper Query & Debugging Errors </i></b>
 <ol> a. Query Order </ol>
 <ol> b. Query Format </ol>
 <ol> c. Variable naming conventions </ol>
