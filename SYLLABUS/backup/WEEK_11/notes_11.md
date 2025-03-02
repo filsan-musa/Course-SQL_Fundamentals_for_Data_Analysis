@@ -3,7 +3,7 @@
 <b>WHERE:</b>
 <p>This clause allows you to filter data based on specific conditions. You can use comparison operators like "=", "<", ">", etc., and logical operators like "AND" and "OR" to refine your filter, which will be further covered in the following week.</p>
 
-```
+```sql
 SQL Syntax Example: Selects all values in column_1 where the entry corresponds exactly to specified string.
 SELECT column_1
 FROM table_a
