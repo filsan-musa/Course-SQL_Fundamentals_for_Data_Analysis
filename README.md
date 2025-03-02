@@ -24,13 +24,15 @@ There are no required prerequisites for this course.
 <h3> Course Content:</h3>
 
 <ul><b> 1. <i> Week 1: Introduction to the course </i></b>
-<ol> a. Overview of material </ol></ul>
+ <ol> a. Access to course content </ol>
+<ol> b. Overview of material </ol></ul>
 
 <ul><b> 2. <i> Week 2: What is SQL? </i></b>
 <ol> a. What is a database? </ol>
 <ol> b. What is a RDBMS? </ol>
 <ol> c. Define SQL </ol>
-<ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol></ul>
+<ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol>
+<ol> e. Understanding Schemas and Views in Databases</ol></ul>
  
 <ul><b> 3. <i> Week 3: Getting Started with SQL </i></b>
 <ol> a. Register for SQLite Online </ol>
