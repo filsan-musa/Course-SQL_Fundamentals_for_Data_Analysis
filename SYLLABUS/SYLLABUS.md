@@ -24,13 +24,15 @@ There are no required prerequisites for this course.
 <h3> Course Content:</h3>
 
 <ul><b> 1. <i> Week 1: Introduction to the course </i></b>
-<ol> a. Overview of material </ol></ul>
+ <ol> a. Access to course content </ol>
+<ol> b. Overview of material </ol></ul>
 
-<ul><b> 2. <i> Week 2: What is SQL? </i></b>
+<ul><b> 2. <i> Week 2: Understanding Databases, and SQL </i></b>
 <ol> a. What is a database? </ol>
 <ol> b. What is a RDBMS? </ol>
 <ol> c. Define SQL </ol>
-<ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol></ul>
+<ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol>
+<ol> e. Understanding Schemas and Views in Databases</ol></ul>
  
 <ul><b> 3. <i> Week 3: Getting Started with SQL </i></b>
 <ol> a. Register for SQLite Online </ol>
@@ -39,10 +41,11 @@ There are no required prerequisites for this course.
 
 <ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
-<ol> b. Primary key </ol>
-<ol> c. Foreign key </ol></ul>
+<ol> b. Components of a table </ol>
+<ol> c. Primary key </ol>
+<ol> d. Foreign key </ol></ul>
 
-<ul><b> 5. <i> Week 5: Understand SQL commands and components</i></b> 
+<ul><b> 5. <i> Week 5: Understanding SQL commands and components</i></b> 
 <ol> a. Types of SQL commands </ol>
 <ol> b. Components of a query</ol></ul>
 
@@ -77,7 +80,8 @@ There are no required prerequisites for this course.
 <ol> c. Datetime Functions </ol>
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
 <ol><ol> ii. Timestamp(), Date()</ol></ol>
-<ol><ol> iii. Current_Timestamp, Current_Time, etc.</ol></ol></ul>
+<ol> d. Datetime Keywords </ol>
+<ol><ol> i. Current_Timestamp, Current_Time, Now()</ol></ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
@@ -93,16 +97,18 @@ There are no required prerequisites for this course.
 <ul><b> 12. <i> Week 12: Arithmetic Operators </i></b>
 <ol> a. Addition </ol>
 <ol> b. Subtraction </ol>
-<ol> c. Product </ol>
+<ol> c. Multiplication </ol>
 <ol> d. Division </ol>
 <ol> e. Modulo </ol></ul>
 
 <ul><b> 13. <i> Week 13: Logical & Comparison Operators </i></b>
-<ol> a. And / Or  / Between / In </ol>
-<ol> b. Not / Is (Not) Null </ol>
-<ol> c. Like </ol>
-<ol> d. Greater (Than) / Less (Than) </ol>
-<ol> e. Equality / Inequality </ol></ul>
+ <ol> a. Logical Operators </ol>
+<ol><ol> i. And / Or  / Between / In </ol>
+<ol> ii. Not / Is (Not) Null </ol>
+<ol> iii. Like </ol></ol>
+<ol> b. Comparison Operators</ol>
+<ol><ol> i. Greater (Than) / Less (Than) </ol>
+<ol> ii. Equality / Inequality </ol></ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
@@ -114,7 +120,7 @@ There are no required prerequisites for this course.
 <ol> c. Inner Join </ol>
 <ol> d. Outer Join </ol></ul>
 
-<ul><b> 16. <i> Week 16: How to properly structure a Query </i></b>
+<ul><b> 16. <i> Week 16: Structuring a proper Query & Debugging Errors </i></b>
 <ol> a. Query Order </ol>
 <ol> b. Query Format </ol>
 <ol> c. Variable naming conventions </ol>
