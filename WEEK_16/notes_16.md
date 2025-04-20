@@ -16,10 +16,10 @@ LIMIT
 Here's an example:
 
 ```sql
-SELECT 
+SELECT column_1
     -- List columns of interest, and manipulate if necessary using arithmetic operators, CASE WHEN, etc.
-    ,column_1
-    ,column_2 * 2 AS doubled_column  -- Example of arithmetic manipulation
+    ,column_2
+    ,column_3 * 2 AS doubled_column  -- Example of arithmetic manipulation
     ,CASE 
         WHEN column_3 > 10 THEN 'High'
         ELSE 'Low'
