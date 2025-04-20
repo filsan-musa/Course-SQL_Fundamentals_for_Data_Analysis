@@ -21,7 +21,7 @@ SELECT column_1
     ,column_2
     ,column_3 * 100 AS percent_column  -- Example of arithmetic manipulation
     ,CASE 
-        WHEN column_3 > 10 THEN 'High'
+        WHEN column_3 >= 70 THEN 'High'
         ELSE 'Low'
     END AS column_3_status   -- Example of CASE WHEN
 FROM 
