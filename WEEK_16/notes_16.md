@@ -19,7 +19,7 @@ Here's an example:
 SELECT column_1
     -- List columns of interest, and manipulate if necessary using arithmetic operators, CASE WHEN, etc.
     ,column_2
-    ,column_3 * 2 AS doubled_column  -- Example of arithmetic manipulation
+    ,column_3 * 100 AS percent_column  -- Example of arithmetic manipulation
     ,CASE 
         WHEN column_3 > 10 THEN 'High'
         ELSE 'Low'
