@@ -3,8 +3,8 @@
 <b>Tabular Data Storage:</b>
 <p>Tabular data storage refers to organizing data in a tabular format, often called a table or an entity, consisting of rows (records/entries) and columns (attributes/field).</p>
 <ul>
-<li><b>ENTITY:</b> An entity, also known as a row, record, or entry represents an individual data entry</li>
-<li><b>ATTRIBUTE:</b> An attribute, also known as a column or field, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
+<li><b>RECORD:</b> A record, also known as a row, entry, or entity represents an individual data entry</li>
+<li><b>COLUMN:</b> An column, also known as an attribute or field, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
 <li><b>VALUE:</b> a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
 </ul>
 
