@@ -2,7 +2,7 @@
 
 <b>Introduction to the Chinook Database</b>
 
-<p> The Chinook database, maintained by Luis Rocha and developed by an unknown party, has become a popular sample database for those learning and practicing SQL. It was designed to represent a digital media store, as hinted by the contents, and is mean to simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, containing different aspects of a digital media store, such as 'Artist', 'Album', 'Genre'etc. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
+<p> The Chinook database, maintained by Luis Rocha and developed by an unknown party, has become a popular sample database for those learning and practicing SQL. It was designed to represent a digital media store, as hinted by the contents, and is mean to simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, containing different aspects of a digital media store. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
 </p>
 
 ![image](https://github.com/user-attachments/assets/ff097462-f9f5-4c5c-9a03-175703d72b3b)
