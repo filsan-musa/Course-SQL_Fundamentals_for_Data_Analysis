@@ -1,12 +1,14 @@
 <h2>Week 5: Understand SQL commands and components</h2>
 
-<p>There are four main types of SQL Commands: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language).</p>
+<b>SQL Commands:</b>
+<p>There are four categories or classes of SQL Command: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language). A command, is essentially the action you're trying to take (e.g., SELECT, INSERT), and is typically found at the start of a query or statement.
+</p>
+<ul><li>Example: DML (ie. SELECT, INSERT, UPDATE, DELETE) etc.</li></ul>
 <center><img width="359" alt="Screenshot 2024-09-21 at 7 53 15 PM" src="https://github.com/user-attachments/assets/06046194-be7c-47b9-aed4-2dc446112fda"></center>
 <br></br>
 
 <b>SQL Statements:</b>
 <p>SQL statements are commands used to perform various operations on a database, such as querying data, inserting, updating, or deleting records, creating or modifying database objects (like tables, indexes, or views), and managing transactions.</p> 
-<ul><li>Example: DML (ie. SELECT, INSERT, UPDATE, DELETE) etc.</li></ul>
 
 <b>SQL Functions:</b>
 <p>SQL functions are built-in or user-defined routines that accept parameters, perform actions, and return a value. They can be used within SQL statements to perform calculations, manipulate data, or retrieve information.</p>
