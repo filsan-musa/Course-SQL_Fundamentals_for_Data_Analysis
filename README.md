@@ -33,29 +33,29 @@ There are no required prerequisites for this course.
 <ol> c. Define SQL </ol>
 <ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol>
 <ol> e. Understanding Schemas and Views in Databases</ol></ul>
- 
-<ul><b> 3. <i> Week 3: Getting Started with SQL </i></b>
-<ol> a. Register for SQLite Online </ol>
-<ol> b. Setting up the database </ol>
-<ol> c. Introducing the Chinook database </ol></ul>
 
-<ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
-<ol> a. Tabular data storage </ol>
-<ol> b. Components of a table </ol>
-<ol> c. Primary key </ol>
-<ol> d. Foreign key </ol></ul>
-
-<ul><b> 5. <i> Week 5: Understanding SQL commands and components</i></b> 
-<ol> a. Types of SQL commands </ol>
-<ol> b. Components of a query</ol></ul>
-
-<ul><b> 6. <i> Week 6: What are the SQL data types? </i></b>
+<ul><b> 3. <i> Week 3: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
  <ol><ol> iv. Datetime </ol></ol>
 <ol> b. Identifying the data type of a column, or in a table </ol></ul>
+
+<ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
+<ol> a. Tabular data storage </ol>
+<ol> b. Components of a table </ol>
+<ol> c. Primary key </ol>
+<ol> d. Foreign key </ol></ul>
+ 
+<ul><b> 5. <i> Week 5: Getting Started with SQL </i></b>
+<ol> a. Register for SQLite Online </ol>
+<ol> b. Setting up the database </ol>
+<ol> c. Introducing the Chinook database </ol></ul>
+
+<ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
+<ol> a. Types of SQL commands </ol>
+<ol> b. Components of a query</ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
 <ol> a. Selecting from a table</ol>
