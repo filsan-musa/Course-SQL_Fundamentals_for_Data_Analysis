@@ -3,11 +3,9 @@
 <b>SQL Commands:</b>
 <p>An SQL command, is essentially the action you're trying to take (e.g., SELECT, INSERT), and is typically found at the start of a query or statement. There are four categories or classes of SQL Command: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language). 
 </p>
-<ul><li>Example: DML (ie. SELECT, INSERT, UPDATE, DELETE) etc.</li></ul>
-<center><img width="359" alt=![Screenshot 2025-05-20 at 8 27 21 PM](https://github.com/user-attachments/assets/c63b55c9-b9a0-4b4f-9112-9a2ff78d05b1)
-></center>
+<ul><li>Example: DML (ie. INSERT, UPDATE, DELETE), DQL (ie. SELECT), etc.</li></ul>
 
-<br></br>
+![Screenshot 2025-05-20 at 8 31 05 PM](https://github.com/user-attachments/assets/43639ac5-8b4b-40eb-85de-9059724566cb)
 
 <b>SQL Statements & Queries:</b>
 <p>An SQL statement are commands used to perform various operations on a database, such as querying data, inserting, updating, or deleting records, creating or modifying database objects (like tables, indexes, or views), and managing transactions.</p> 
@@ -16,9 +14,15 @@
 <p>SQL functions are built-in or user-defined routines that accept parameters, perform actions, and return a value. They can be used within SQL statements to perform calculations, manipulate data, or retrieve information.</p>
 <ul><li>Example: aggregate functions (ie. SUM, AVG, COUNT, MAX, MIN), numeric transformations(ie. ROUND, FLOOR), and conversion functions (ie. CAST, CONVERT) etc.</li></ul>
 
+![Screenshot 2025-05-20 at 8 32 46 PM](https://github.com/user-attachments/assets/f86d8b3e-bdbf-452e-b1ba-4e153039c93e)
+
+
 <b>SQL Clauses:</b>
 <p>SQL clauses are components of SQL statements that define the conditions, filters, or operations to be applied to the data. They control the behavior of SQL statements and specify what data to retrieve, modify, or operate on.</p>
 <ul><li>Example: FROM, DISTINCT, WHERE, HAVING, GROUP BY, ORDER BY, LIMIT etc. </li></ul>
+
+![Screenshot 2025-05-20 at 8 36 02 PM](https://github.com/user-attachments/assets/27f3c716-a71b-461e-9869-453c70bae40c)
+
 
 <b>SQL Operators:</b>
 <p>SQL operators are symbols or keywords used to perform operations on data values or expressions. They can be used within SQL statements to compare values, perform arithmetic calculations, concatenate strings, and more.</p>
