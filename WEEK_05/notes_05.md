@@ -8,15 +8,16 @@
 ![Screenshot 2025-05-20 at 8 31 05 PM](https://github.com/user-attachments/assets/43639ac5-8b4b-40eb-85de-9059724566cb)
 
 <b>SQL Statements & Queries:</b>
-<p>An SQL statement is a complete instruction in SQL that performs an action. A query is a specific type of SQL statement that uses a Data Query Language (DQL) command, most commonly SELECT, and is used to retrieve data—usually producing an output. Alll queries are statements but not all statements are queries.</p> 
+<p>An SQL statement is a complete instruction in SQL that performs an action. A query is a specific type of SQL statement that uses a Data Query Language (DQL) command, most commonly SELECT, and is used to retrieve data—usually producing an output. Recall, all queries are statements but not all statements are queries.</p> 
 
-<ul><li>Example: Selecting all the inputs in <code>table1</code>.
+<ul><li>Example: Selecting all the inputs in <code>table1</code>.</li></ul>
   
 ```sql
 SELECT *
 FROM table1
 ```
-</li></ul>
+
+
 
 <b>SQL Functions:</b>
 <p>SQL functions are built-in or user-defined routines that accept parameters, perform actions, and return a value. They can be used within SQL statements to perform calculations, and extract information.</p>
