@@ -1,7 +1,7 @@
 <h2>Week 5: Understand SQL commands and components</h2>
 
 <b>SQL Commands:</b>
-<p>An SQL command, is essentially the action you're trying to take (e.g., SELECT, INSERT), and is typically found at the start of a query or statement. There are four categories or classes of SQL Command: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language). 
+<p>An SQL command, is essentially the action you're trying to take (e.g., SELECT, INSERT), and is typically found at the start of a query or statement. There are five categories or classes of SQL Command: DDL (Data Definition Language), DML (Data Manipulation Language), DQL (Data Query Language), DCL (Data Control Language), and TCL (Transaction Control Language). 
 </p>
 <ul><li>Example: DML (ie. INSERT, UPDATE, DELETE), DQL (ie. SELECT), etc.</li></ul>
 
