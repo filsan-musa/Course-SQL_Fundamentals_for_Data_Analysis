@@ -19,7 +19,7 @@ FROM table1
 </li></ul>
 
 <b>SQL Functions:</b>
-<p>SQL functions are built-in or user-defined routines that accept parameters, perform actions, and return a value. They can be used within SQL statements to perform calculations, manipulate data, or retrieve information.</p>
+<p>SQL functions are built-in or user-defined routines that accept parameters, perform actions, and return a value. They can be used within SQL statements to perform calculations, and extract information.</p>
 <ul><li>Example: aggregate functions (ie. SUM, AVG, COUNT, MAX, MIN), numeric transformations(ie. ROUND, FLOOR), and conversion functions (ie. CAST, CONVERT) etc.</li></ul>
 
 ![Screenshot 2025-05-20 at 8 32 46 PM](https://github.com/user-attachments/assets/f86d8b3e-bdbf-452e-b1ba-4e153039c93e)
