@@ -39,9 +39,9 @@ There are no required prerequisites for this course.
 <ol> a. Tabular data storage </ol>
 <ol> b. Components of a table </ol>
 <ol> c. Primary key </ol>
-<ol> d. Foreign key </ol></ul>
+<ol> d. Foreign key </ol>
 <ol> e. Understanding Schemas, and Views in Databases</ol>
-<ol> f. Relationships and ERDs in Databases</ol>
+<ol> f. Relationships and ERDs in Databases</ol></ul>
 
 <ul><b> 4. <i> Week 4: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
