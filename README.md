@@ -29,24 +29,27 @@ There are no required prerequisites for this course.
 
 <ul><b> 2. <i> Week 2: Understanding Databases, and SQL </i></b>
 <ol> a. What is a database? </ol>
+<ol> a. What is structured, semi-structured, and unstructured data?
 <ol> b. What is a RDBMS? </ol>
-<ol> c. Define SQL </ol>
+<ol> c. Define SQL</ol>
 <ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol>
-<ol> e. Understanding Schemas and Views in Databases</ol></ul>
+<ol> e. Roles of ANSI and ISO</ol></ul>
 
-<ul><b> 3. <i> Week 3: What are the SQL data types? </i></b>
+<ul><b> 3. <i> Week 3: What is in a SQL table? </i></b>
+<ol> a. Tabular data storage </ol>
+<ol> b. Components of a table </ol>
+<ol> c. Primary key </ol>
+<ol> d. Foreign key </ol></ul>
+<ol> e. Understanding Schemas, and Views in Databases</ol>
+<ol> f. Relationships and ERDs in Databases</ol>
+
+<ul><b> 4. <i> Week 4: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
  <ol><ol> iv. Datetime </ol></ol>
 <ol> b. Identifying the data type of a column, or in a table </ol></ul>
-
-<ul><b> 4. <i> Week 4: What is in a SQL table? </i></b>
-<ol> a. Tabular data storage </ol>
-<ol> b. Components of a table </ol>
-<ol> c. Primary key </ol>
-<ol> d. Foreign key </ol></ul>
  
 <ul><b> 5. <i> Week 5: Getting Started with SQL </i></b>
 <ol> a. Register for SQLite Online </ol>
