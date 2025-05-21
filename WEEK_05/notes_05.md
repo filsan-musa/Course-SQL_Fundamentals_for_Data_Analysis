@@ -4,7 +4,9 @@
 <p>An SQL command, is essentially the action you're trying to take (e.g., SELECT, INSERT), and is typically found at the start of a query or statement. There are four categories or classes of SQL Command: DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and TCL (Transaction Control Language). 
 </p>
 <ul><li>Example: DML (ie. SELECT, INSERT, UPDATE, DELETE) etc.</li></ul>
-<center><img width="359" alt="Screenshot 2024-09-21 at 7 53 15 PM" src="https://github.com/user-attachments/assets/06046194-be7c-47b9-aed4-2dc446112fda"></center>
+<center><img width="359" alt=![Screenshot 2025-05-20 at 8 27 21 PM](https://github.com/user-attachments/assets/c63b55c9-b9a0-4b4f-9112-9a2ff78d05b1)
+></center>
+
 <br></br>
 
 <b>SQL Statements & Queries:</b>
