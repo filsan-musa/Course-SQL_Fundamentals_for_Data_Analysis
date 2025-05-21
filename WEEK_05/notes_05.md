@@ -32,7 +32,7 @@ WHERE column_1 = 'value_a';
 
 
 <b>SQL Clauses:</b>
-<p>SQL clauses are components of SQL statements that define the conditions, filters, or operations to be applied to the data. They control the behavior of SQL statements and specify what data to retrieve, modify, or operate on.</p>
+<p>SQL clauses are components of SQL statements that define the conditions, or filters to be applied to the data. They control the behavior of SQL statements and specify what data to retrieve, modify, or operate on.</p>
 <ul><li>Example: FROM, DISTINCT, WHERE, HAVING, GROUP BY, ORDER BY, LIMIT etc. </li></ul>
 
 ![Screenshot 2025-05-20 at 8 36 02 PM](https://github.com/user-attachments/assets/27f3c716-a71b-461e-9869-453c70bae40c)
