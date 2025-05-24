@@ -39,12 +39,12 @@ There are no required prerequisites for this course.
 <ol> i. Differences between flavours </ol>
 <ol> ii. Role of ANSI and ISO </ol></ol></ul>
 
-<ul><b> 3. <i> Week 3: What is in a SQL table? </i></b>
-<ol> a. Tabular data storage </ol>
-<ol> b. Components of a table </ol>
-<ol> c. Primary keys and Foreign keys </ol>
-<ol> d. Understanding Schemas and Views</ol>
-<ol> e. Relationships and ER Diagrams (ERDs)</ol></ul>
+<ul><b> 3. <i> Week 3: What is in a Relational Database? </i></b>
+<ol> a. Understanding Schemas and Views</ol>
+<ol> b. Relationships and ER Diagrams (ERDs)</ol>
+<ol> c. Tabular data storage </ol>
+<ol> d. Components of a table </ol>
+<ol> e. Primary keys and Foreign keys </ol></ul>
 
 <ul><b> 4. <i> Week 4: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
