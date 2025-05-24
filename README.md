@@ -29,19 +29,22 @@ There are no required prerequisites for this course.
 
 <ul><b> 2. <i> Week 2: Understanding Databases, and SQL </i></b>
 <ol> a. What is a database? </ol>
-<ol> a. What is structured, semi-structured, and unstructured data?
-<ol> b. What is a RDBMS? </ol>
-<ol> c. Define SQL</ol>
-<ol> d. What is an SQL flavour? Are there differences between different SQL flavours? </ol>
-<ol> e. Roles of ANSI and ISO</ol></ul>
+<ol> b. Types of Data by Structure 
+<ol> i. Structured </ol>
+<ol> ii. Semi-structured </ol>
+<ol> iii. Unstructured </ol></ol>
+<ol> c. What is an RDBMS? </ol>
+<ol> d. Define SQL</ol>
+<ol> e. Understanding SQL flavour
+<ol> i. Differences between flavours </ol>
+<ol> ii. Role of ANSI and ISO </ol></ol></ul>
 
 <ul><b> 3. <i> Week 3: What is in a SQL table? </i></b>
 <ol> a. Tabular data storage </ol>
 <ol> b. Components of a table </ol>
-<ol> c. Primary key </ol>
-<ol> d. Foreign key </ol>
-<ol> e. Understanding Schemas, and Views in Databases</ol>
-<ol> f. Relationships and ERDs in Databases</ol></ul>
+<ol> c. Primary keys and Foreign keys </ol>
+<ol> d. Understanding Schemas and Views</ol>
+<ol> e. Relationships and ER Diagrams (ERDs)</ol></ul>
 
 <ul><b> 4. <i> Week 4: What are the SQL data types? </i></b>
 <ol> a. Understanding the data types </ol>
@@ -49,16 +52,20 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
  <ol><ol> iv. Datetime </ol></ol>
-<ol> b. Identifying the data type of a column, or in a table </ol></ul>
+<ol> b. Identifying the data type of a column or table </ol></ul>
  
 <ul><b> 5. <i> Week 5: Getting Started with SQL </i></b>
-<ol> a. Register for SQLite Online </ol>
-<ol> b. Setting up the database </ol>
-<ol> c. Introducing the Chinook database </ol></ul>
+<ol> a. Introducing the Chinook database </ol>
+<ol> b. Setting up Online SQL Account </ol>
+<ol> c. Accessing the Chinook database </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
-<ol> a. Types of SQL commands </ol>
-<ol> b. Components of a query</ol></ul>
+<ol> a. SQL commands and command types</ol>
+<ol> b. SQL components
+<ol> i. Functions</ol>
+<ol> ii. Clauses</ol>
+<ol> iii. Operators</ol>
+<ol> iv. Statments and Queries </ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
 <ol> a. Selecting from a table</ol>
