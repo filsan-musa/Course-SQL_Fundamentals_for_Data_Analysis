@@ -1,33 +1,40 @@
-<h2> Week 4: What is in a SQL table?</h2>
+<h2>Week 6: What are the SQL data types?</h2>
 
-<b>Tabular Data Storage:</b>
-<p>Tabular data storage refers to organizing data in a tabular format, often called a table or an entity, consisting of rows (records/entries) and columns (attributes/field).</p>
-<ul>
-<li><b>RECORD:</b> A record, also known as a row, entry, or entity represents an individual data entry</li>
-<li><b>COLUMN:</b> An column, also known as an attribute or field, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
-<li><b>VALUE:</b> a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
-</ul>
+<p> When creating a variable in SQL, it is important to specify the data type that the values stored in the variable will assume. This defines the storage requirements (ie. allocate memory, storage etc), valid operations, and potential values for the variable. Here are most basic and common data types stored in relational databases:</p>
 
-<b> What is an SQL key? </b>
-<p> These are components of relational databases that help define relationships between tables and ensure data integrity. SQL keys are like identification numbers for rows in a database table. For instance, a bank
-account number uniquely identifies a bank account, a VIN number uniquely identifies a car, a social
-insurance or security number identifies a person. There are two main types: primary keys, and foreign keys.</p>
+<b>BOOLEAN:</b>
+<ul><li>BOOLEAN: Stores logical values (ie. True or False). These values can also take integer forms of 1 for True and 0 for false (essentially data is denoted by a single bit).</li></ul>
 
-<ul><li><b>PRIMARY KEY:</b>
-A primary key is a unique identifier for each record in a table. Let's go over some of the most frequently used primary key types:
-<ul>
-<li><b>SURRAGATE KEY:</b>
-  These are artificially generated unique identifiers, auto-incrementing or randomly generated, that typically only serve meaning within the context of the table.
-<li><b>NATURAL KEY:</b> A natural primary key is a key that is derived from the data itself, such as a unique identifier inherent to the data domain. 
-  Natural primary keys are often based on attributes that naturally occur in the data, like email addresses, user_id, ip address, sku, device ids etc.</li>
-</ul></li></ul>
+<b>NUMERIC:</b>
+<ul><li>INT (OR INTEGER): Stores any integer value that uses up to 4 bytes of storage. It can typically store integer values between -2,147,483,648 to 2,147,483,647</li>
+<ul><li>BIGINT: Stores any integer value that uses up to 8 bytes of storage. It can typically store integer values in the range of -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.</li>
+<li>SMALLINT: Stores any integer value that uses up to 2 bytes of storage. It can typically store integer values in the range of -32,768 to 32,767.</li>
+<li>Example: -1,897,234,6540, 0, 10, 6666666 etc.</li></ul>
+<li>FLOAT: Stores any real number value that uses up to 8 bytes of storage.</li>
+<ul><li>Example: -1, 0, 7.2598234, π, ⅓, sqrt 2 etc.</li></ul></ul>
 
-<ul><li><b>FOREIGN KEY:</b>
-A foreign key is a column or set of columns in a table that establishes a link between data in two tables.
-It represents a relationship between the data in the current table (child table) and the data in another table (parent table).
-The foreign key column typically contains values that correspond to the primary key values in the related table.</li></ul>
+<b>STRING:</b>
+<ul><li>CHAR(n): Stores fixed-length character strings, if total string length is less than n the remaining space will be filled with whitespace</li>
+<ul><li>Example: CHAR(2) can store only up to 2 characters, any character combination up to 2 character space. ON, !, a@, 3b are all valid entries.</ul>
+<li>VARCHAR(n): Variable-length character strings with a maximum length of n.</li>
+<ul><li>Example: VARCHAR(24) can store any length of characters between 1-24. As opposed to CHAR(n) which fills empty spaces with whitespace, any unused space will be saved.</ul>
+<li>TEXT: Variable-length character strings with no maximum length.</li></ul>
 
-<b>Why do we need to know about keys?</b>
+<b>DATETIME:</b>
+<ul><li>DATE: Stores date values in the following format: YYYY-MM-DD.</li>
+<li>TIME: Stores time values in the following format: HH:MM:SS.</li>
+<li>TIMESTAMP: Stores date and time (also known as datetime) values in the following format: YYYY-MM-DD HH:MM:SS.</li></ul>
 
-<p>This is because having a great understanding of primary and foreign keys are important for performing joins,  data integrity, normalization, and query optimization. In the context of this course, these concepts will be  useful for performing joins later on in this course. Whilst the focus of this course may be on joins, a deeper understanding of keys can be beneficial to your data science journey.</p>
+<b>INDENTIFYING DATA TYPE:</b>
+<p>To identify the data type of a table in our database we can use the following:</p>
+
+```sql
+#SQL Syntax Example:
+PRAGMA table_info(<insert table name>)
+```
+<p>Alternatively, depending on the sql flavour, you may use this:</p>
+
+```sql
+DESCRIBE <insert table name>
+```
 

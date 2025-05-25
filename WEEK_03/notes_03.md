@@ -1,53 +1,33 @@
-<h2>Week 3: Getting Started with SQL</h2>
+<h2> Week 4: What is in a SQL table?</h2>
 
-<b>Introduction to the Chinook Database</b>
+<b>Tabular Data Storage:</b>
+<p>Tabular data storage refers to organizing data in a tabular format, often called a table or an entity, consisting of rows (records/entries) and columns (attributes/field).</p>
+<ul>
+<li><b>RECORD:</b> A record, also known as a row, entry, or entity represents an individual data entry</li>
+<li><b>COLUMN:</b> An column, also known as an attribute or field, represents a specific attribute or characteristic of the data. Typically, this is what is referred to as a variable in programming.</li>
+<li><b>VALUE:</b> a value, similar to a cell in a spreadsheet aka a field, is a single element stored within a table.</li>
+</ul>
 
-<p> The Chinook database, maintained by Luis Rocha and developed by an unknown party, has become a popular sample database for those learning and practicing SQL. It was designed to represent a digital media store, as hinted by the contents, and is mean to simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, containing different aspects of a digital media store. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
-</p>
+<b> What is an SQL key? </b>
+<p> These are components of relational databases that help define relationships between tables and ensure data integrity. SQL keys are like identification numbers for rows in a database table. For instance, a bank
+account number uniquely identifies a bank account, a VIN number uniquely identifies a car, a social
+insurance or security number identifies a person. There are two main types: primary keys, and foreign keys.</p>
 
-![image](https://github.com/user-attachments/assets/ff097462-f9f5-4c5c-9a03-175703d72b3b)
+<ul><li><b>PRIMARY KEY:</b>
+A primary key is a unique identifier for each record in a table. Let's go over some of the most frequently used primary key types:
+<ul>
+<li><b>SURRAGATE KEY:</b>
+  These are artificially generated unique identifiers, auto-incrementing or randomly generated, that typically only serve meaning within the context of the table.
+<li><b>NATURAL KEY:</b> A natural primary key is a key that is derived from the data itself, such as a unique identifier inherent to the data domain. 
+  Natural primary keys are often based on attributes that naturally occur in the data, like email addresses, user_id, ip address, sku, device ids etc.</li>
+</ul></li></ul>
 
-Note: The diagram, formally known as an Entity-Relationship Diagram, also known as ERD, is a visual representation of a schema. Recall that a schema is just a blueprint for the relationships between tables, and the structures and features of the tables within a database.
+<ul><li><b>FOREIGN KEY:</b>
+A foreign key is a column or set of columns in a table that establishes a link between data in two tables.
+It represents a relationship between the data in the current table (child table) and the data in another table (parent table).
+The foreign key column typically contains values that correspond to the primary key values in the related table.</li></ul>
 
-<b>PART 1: Setting Up Online SQLite</b>
+<b>Why do we need to know about keys?</b>
 
-<ol>1. Go to the following website: https://sqliteonline.com</ol>
-<ol>2. Click the “profile” icon on the top-right corner of the navigation bar.</ol>
-<ol><img width="453" alt="Screenshot 2025-02-08 at 8 23 31 PM" src="https://github.com/user-attachments/assets/f9151be6-4d24-455d-8001-f0ff52ca083a"></ol>
-<ol>3. Click on the “Sign In” option in the drop down menu</ol>
-<ol><img width="433" alt="Screenshot 2025-02-08 at 8 27 18 PM" src="https://github.com/user-attachments/assets/26135cb6-8659-4a33-96ad-bf9a35b0eaaa"></ol>
-<ol>4. Enter your email and password into the provided fields in the pop-up.</ol>
-<ol><img width="429" alt="Screenshot 2024-09-14 at 2 11 36 AM" src="https://github.com/user-attachments/assets/1bd5e1b3-ead8-4ab4-af55-9fbd369e23ff"></ol>
-<ol><img width="429" alt="Screenshot 2024-09-14 at 2 13 16 AM" src="https://github.com/user-attachments/assets/4f1802f7-2cb3-48c1-b87f-ae5819083e65"></ol>
-<ol>5. After entering your new credentials click the “Create an account” button.</ol>
-<ol><img width="429" alt="Screenshot 2024-09-14 at 2 15 04 AM" src="https://github.com/user-attachments/assets/5880884d-aa8a-4cec-93e4-0cfdfe29574c">
-</ol>
-<ol>6. Now that you’re done registering your account, you’ll need to verify your email. You should receive an email with a verification link attached.</ol>
-<br>
-
-<b>PART 2A: Accessing the Database [Easier Method]</b>
-
-<ol>1. To access the database, first login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
-<ol>2. Select the “Chinook” database from the sample databases listed under example, and that should be it.</ol>
-<ol><img width="429" alt="Screenshot 2024-09-14 at 2 36 53 AM" src="https://github.com/user-attachments/assets/b8c727ee-cdba-4157-8962-2db270593881"></ol>
-<br>
-
-
-<b>PART 2B: Access to the Database via GitHub [Alternative Method] </b>
-<ol>1. Visit the following GitHub link: https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis/blob/main/chinook.zip </ol>
-<ol>2. Once on the page click on the menu icon and select download to download the zip file from GitHub on to your local computer.</ol>
-<ol><img width="431" alt="Screenshot 2024-09-14 at 2 33 08 AM" src="https://github.com/user-attachments/assets/458c7f2d-c679-45aa-ae23-789e35db6bb1"></ol>
-<ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
-<ol>3. Once downloaded, go to the downloads folder on your desktop and double the file to unzip. </ol>
-<ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.</ol>
-<ol><img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24"></ol>
-<ol>5. Login to your account: https://sqliteonline.com. (Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
-<ol>6.Click on "add" icon & then click on "Open SQLite DB" </ol>
-<ol><img width="433" alt="Screenshot 2025-02-08 at 8 37 51 PM" src="https://github.com/user-attachments/assets/89a243ff-6532-49d6-aa09-854d8991fa30"></ol>
-<ol><img width="433" alt="Screenshot 2025-02-08 at 8 43 22 PM" src="https://github.com/user-attachments/assets/5fcb898d-bd84-40e7-b24f-f889ef9e2022"></ol>
-<ol>7. Finally, you should see a popup showing your downloads folder, select the unzipped file from your downloads and that it.</ol>
-
-
-
-
+<p>This is because having a great understanding of primary and foreign keys are important for performing joins,  data integrity, normalization, and query optimization. In the context of this course, these concepts will be  useful for performing joins later on in this course. Whilst the focus of this course may be on joins, a deeper understanding of keys can be beneficial to your data science journey.</p>
 
