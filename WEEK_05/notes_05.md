@@ -1,4 +1,4 @@
-<h2>Week 3: Getting Started with SQL</h2>
+<h2>Week 5: Getting Started with SQL</h2>
 
 <b>Introduction to the Chinook Database</b>
 
