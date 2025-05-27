@@ -54,7 +54,7 @@ There are no required prerequisites for this course.
  <ol><ol> iv. Datetime </ol></ol>
 <ol> b. Identifying the data type of a column or table </ol></ul>
  
-<ul><b> 5. <i> Week 5: Getting Started with SQL </i></b>
+<ul><b> 5. <i> Week 5: Getting Started with SQL & Chinook DB </i></b>
 <ol> a. Introducing the Chinook database </ol>
 <ol> b. Setting up Online SQL Account </ol>
 <ol> c. Accessing the Chinook database </ol>
