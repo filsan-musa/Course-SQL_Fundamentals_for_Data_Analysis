@@ -1,4 +1,4 @@
-<h2>Week 6: What are the SQL data types?</h2>
+<h2>Week 4: What are the SQL data types?</h2>
 
 <p> When creating a variable in SQL, it is important to specify the data type that the values stored in the variable will assume. This defines the storage requirements (ie. allocate memory, storage etc), valid operations, and potential values for the variable. Here are most basic and common data types stored in relational databases:</p>
 
