@@ -39,14 +39,14 @@ There are no required prerequisites for this course.
 <ol> i. Differences between flavours </ol>
 <ol> ii. Role of ANSI and ISO </ol></ol></ul>
 
-<ul><b> 3. <i> Week 3: What is in a Relational Database? </i></b>
+<ul><b> 3. <i> Week 3: Relational Database Fundamentals </i></b>
 <ol> a. Understanding Schemas and Views</ol>
 <ol> b. Relationships and ER Diagrams (ERDs)</ol>
 <ol> c. Tabular data storage </ol>
 <ol> d. Components of a table </ol>
 <ol> e. Primary and Foreign keys </ol></ul>
 
-<ul><b> 4. <i> Week 4: What are the SQL data types? </i></b>
+<ul><b> 4. <i> Week 4: Defining and Identifying Data Types </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
@@ -57,7 +57,9 @@ There are no required prerequisites for this course.
 <ul><b> 5. <i> Week 5: Getting Started with SQL </i></b>
 <ol> a. Introducing the Chinook database </ol>
 <ol> b. Setting up Online SQL Account </ol>
-<ol> c. Accessing the Chinook database </ol></ul>
+<ol> c. Accessing the Chinook database </ol>
+<ol> d. General IDE Overview </ol>
+<ol> d. Components of an IDE </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
 <ol> a. SQL commands and command types</ol>
