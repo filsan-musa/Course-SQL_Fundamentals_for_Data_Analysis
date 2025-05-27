@@ -37,7 +37,7 @@ There are no required prerequisites for this course.
 <ol> d. Define SQL</ol>
 <ol> e. Understanding SQL flavour
 <ol> i. Differences between flavours </ol>
-<ol> ii. Role of ANSI and ISO </ol></ol></ul>
+<ol> ii. Roles of ANSI and ISO </ol></ol></ul>
 
 <ul><b> 3. <i> Week 3: Relational Database Fundamentals </i></b>
 <ol> a. Understanding Schemas and Views</ol>
