@@ -54,7 +54,7 @@ There are no required prerequisites for this course.
 <ol> d. Components of an IDE </ol></ul>
 
 
-<ul><b> 5. <i> Week 5: Defining and Identifying Data Types </i></b>
+<ul><b> 5. <i> Week 5: Defining & Identifying Data Types </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
