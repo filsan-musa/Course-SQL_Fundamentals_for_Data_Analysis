@@ -45,21 +45,22 @@ There are no required prerequisites for this course.
 <ol> c. Tabular data storage </ol>
 <ol> d. Components of a table </ol>
 <ol> e. Primary and Foreign keys </ol></ul>
+ 
+<ul><b> 4. <i> Week 4: Getting Started with SQL & Chinook DB </i></b>
+<ol> a. Introducing the Chinook database </ol>
+<ol> b. Setting up Online SQL Account </ol>
+<ol> c. Accessing the Chinook database </ol>
+<ol> d. General IDE Overview </ol>
+<ol> d. Components of an IDE </ol></ul>
 
-<ul><b> 4. <i> Week 4: Defining and Identifying Data Types </i></b>
+
+<ul><b> 5. <i> Week 5: Defining and Identifying Data Types </i></b>
 <ol> a. Understanding the data types </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
  <ol><ol> iv. Datetime </ol></ol>
 <ol> b. Identifying the data type of a column or table </ol></ul>
- 
-<ul><b> 5. <i> Week 5: Getting Started with SQL & Chinook DB </i></b>
-<ol> a. Introducing the Chinook database </ol>
-<ol> b. Setting up Online SQL Account </ol>
-<ol> c. Accessing the Chinook database </ol>
-<ol> d. General IDE Overview </ol>
-<ol> d. Components of an IDE </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
 <ol> a. SQL commands and command types</ol>
