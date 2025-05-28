@@ -1,40 +1,53 @@
-<h2>Week 4: What are the SQL data types?</h2>
+<h2>Week 4: Getting Started with SQL</h2>
 
-<p> When creating a variable in SQL, it is important to specify the data type that the values stored in the variable will assume. This defines the storage requirements (ie. allocate memory, storage etc), valid operations, and potential values for the variable. Here are most basic and common data types stored in relational databases:</p>
+<b>Introduction to the Chinook Database</b>
 
-<b>BOOLEAN:</b>
-<ul><li>BOOLEAN: Stores logical values (ie. True or False). These values can also take integer forms of 1 for True and 0 for false. Boolean data types are typically used for columns that represent binary values such as 'yes/no', 'true/false', or other two-category options.</li></ul>
+<p> The Chinook database, maintained by Luis Rocha and developed by an unknown party, has become a popular sample database for those learning and practicing SQL. It was designed to represent a digital media store, as hinted by the contents, and is mean to simulates a realistic business environment, allowing users to interact with data in a meaningful way. The database consists of a total of 11 tables, containing different aspects of a digital media store. Learn more about the database and its features by visiting the following link: https://github.com/lerocha/chinook-database/tree/master
+</p>
 
-<b>NUMERIC:</b>
-<ul><li>INT (OR INTEGER): Stores any integer value that uses up to 4 bytes of storage. It can typically store integer values between -2,147,483,648 to 2,147,483,647</li>
-<ul><li>BIGINT: Stores any integer value that uses up to 8 bytes of storage. It can typically store integer values in the range of -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.</li>
-<li>SMALLINT: Stores any integer value that uses up to 2 bytes of storage. It can typically store integer values in the range of -32,768 to 32,767.</li>
-<li>Example: -1,897,234,6540, 0, 10, 6666666 etc.</li></ul>
-<li>FLOAT: Stores any real number value that uses up to 8 bytes of storage.</li>
-<ul><li>Example: -1, 0, 7.2598234, π, ⅓, sqrt 2 etc.</li></ul></ul>
+![image](https://github.com/user-attachments/assets/ff097462-f9f5-4c5c-9a03-175703d72b3b)
 
-<b>STRING:</b>
-<ul><li>CHAR(n): Stores fixed-length character strings, if total string length is less than n the remaining space will be filled with whitespace</li>
-<ul><li>Example: CHAR(2) can store only up to 2 characters, any character combination up to 2 character space. ON, !, a@, 3b are all valid entries.</ul>
-<li>VARCHAR(n): Variable-length character strings with a maximum length of n.</li>
-<ul><li>Example: VARCHAR(24) can store any length of characters between 1-24. As opposed to CHAR(n) which fills empty spaces with whitespace, any unused space will be saved.</ul>
-<li>TEXT: Variable-length character strings with no maximum length.</li></ul>
+Note: The diagram, formally known as an Entity-Relationship Diagram, also known as ERD, is a visual representation of a schema. Recall that a schema is just a blueprint for the relationships between tables, and the structures and features of the tables within a database.
 
-<b>DATETIME:</b>
-<ul><li>DATE: Stores date values in the following format: YYYY-MM-DD.</li>
-<li>TIME: Stores time values in the following format: HH:MM:SS.</li>
-<li>TIMESTAMP: Stores date and time (also known as datetime) values in the following format: YYYY-MM-DD HH:MM:SS.</li></ul>
+<b>PART 1: Setting Up Online SQLite</b>
 
-<b>INDENTIFYING DATA TYPE:</b>
-<p>To identify the data type of a table in our database we can use the following:</p>
+<ol>1. Go to the following website: https://sqliteonline.com</ol>
+<ol>2. Click the “profile” icon on the top-right corner of the navigation bar.</ol>
+<ol><img width="453" alt="Screenshot 2025-02-08 at 8 23 31 PM" src="https://github.com/user-attachments/assets/f9151be6-4d24-455d-8001-f0ff52ca083a"></ol>
+<ol>3. Click on the “Sign In” option in the drop down menu</ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 27 18 PM" src="https://github.com/user-attachments/assets/26135cb6-8659-4a33-96ad-bf9a35b0eaaa"></ol>
+<ol>4. Enter your email and password into the provided fields in the pop-up.</ol>
+<ol><img width="429" alt="Screenshot 2024-09-14 at 2 11 36 AM" src="https://github.com/user-attachments/assets/1bd5e1b3-ead8-4ab4-af55-9fbd369e23ff"></ol>
+<ol><img width="429" alt="Screenshot 2024-09-14 at 2 13 16 AM" src="https://github.com/user-attachments/assets/4f1802f7-2cb3-48c1-b87f-ae5819083e65"></ol>
+<ol>5. After entering your new credentials click the “Create an account” button.</ol>
+<ol><img width="429" alt="Screenshot 2024-09-14 at 2 15 04 AM" src="https://github.com/user-attachments/assets/5880884d-aa8a-4cec-93e4-0cfdfe29574c">
+</ol>
+<ol>6. Now that you’re done registering your account, you’ll need to verify your email. You should receive an email with a verification link attached.</ol>
+<br>
 
-```sql
-#SQL Syntax Example:
-PRAGMA table_info(<insert table name>)
-```
-<p>Alternatively, depending on the sql flavour, you may use this:</p>
+<b>PART 2A: Accessing the Database [Easier Method]</b>
 
-```sql
-DESCRIBE <insert table name>
-```
+<ol>1. To access the database, first login to your account (https://sqliteonline.com).(Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.)</ol>
+<ol>2. Select the “Chinook” database from the sample databases listed under example, and that should be it.</ol>
+<ol><img width="429" alt="Screenshot 2024-09-14 at 2 36 53 AM" src="https://github.com/user-attachments/assets/b8c727ee-cdba-4157-8962-2db270593881"></ol>
+<br>
+
+
+<b>PART 2B: Access to the Database via GitHub [Alternative Method] </b>
+<ol>1. Visit the following GitHub link: https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis/blob/main/chinook.zip </ol>
+<ol>2. Once on the page click on the menu icon and select download to download the zip file from GitHub on to your local computer.</ol>
+<ol><img width="431" alt="Screenshot 2024-09-14 at 2 33 08 AM" src="https://github.com/user-attachments/assets/458c7f2d-c679-45aa-ae23-789e35db6bb1"></ol>
+<ol><img width="431" alt="Screenshot 2024-09-14 at 2 34 55 AM" src="https://github.com/user-attachments/assets/c50f40f7-3f22-4bb7-8fc1-279936ac12e2"></ol>
+<ol>3. Once downloaded, go to the downloads folder on your desktop and double the file to unzip. </ol>
+<ol>4. Upon successfully unzipping, you should see a new file listed as "chinook.db" in addition to the original zip file. You will need to upload this new file to your SQLite-Online account.</ol>
+<ol><img width="862" alt="Screenshot 2025-02-08 at 7 45 39 PM" src="https://github.com/user-attachments/assets/feab1861-268d-4bb9-a66b-8f943eabcc24"></ol>
+<ol>5. Login to your account: https://sqliteonline.com. (Note: It is possible to access without login but progress will not be stored, therefore it is strongly encouraged for all learners to create an account.) </ol>
+<ol>6.Click on "add" icon & then click on "Open SQLite DB" </ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 37 51 PM" src="https://github.com/user-attachments/assets/89a243ff-6532-49d6-aa09-854d8991fa30"></ol>
+<ol><img width="433" alt="Screenshot 2025-02-08 at 8 43 22 PM" src="https://github.com/user-attachments/assets/5fcb898d-bd84-40e7-b24f-f889ef9e2022"></ol>
+<ol>7. Finally, you should see a popup showing your downloads folder, select the unzipped file from your downloads and that it.</ol>
+
+
+
+
 
