@@ -20,6 +20,16 @@
 <ul><li>Example: VARCHAR(24) can store any length of characters between 1-24. As opposed to CHAR(n) which fills empty spaces with whitespace, any unused space will be saved.</ul>
 <li>TEXT: Variable-length character strings with no maximum length.</li></ul>
 
+
+
+
+
+<p><code> 'Hello World' </code> - alphabetic string</p>
+<p><code> '12345' </code> - numeric string</p>
+<p><code> '221B Baker Street' </code> - alphanumeric string</p>
+<p><code> 'user123@example.com' </code> - alphanumeric with special characters</p>
+
+
 <b>DATETIME:</b>
 <ul><li>DATE: Stores date values in the following format: YYYY-MM-DD.</li>
 <li>TIME: Stores time values in the following format: HH:MM:SS.</li>
