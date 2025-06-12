@@ -35,7 +35,7 @@ There are no required prerequisites for this course.
 <ol> iii. Unstructured </ol></ol>
 <ol> c. What is an RDBMS? </ol>
 <ol> d. Define SQL</ol>
-<ol> e. Understanding SQL flavour
+<ol> e. Understanding SQL flavours
 <ol> i. Differences between flavours </ol>
 <ol> ii. Roles of ANSI and ISO </ol></ol></ul>
 
