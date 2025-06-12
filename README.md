@@ -56,10 +56,9 @@ There are no required prerequisites for this course.
 
 <ul><b> 5. <i> Week 5: Defining & Identifying Data Types </i></b>
 <ol> a. Data types in SQL </ol>
-<ol><ol> i. Boolean </ol></ol>
+<ol><ol> i. String </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
-<ol><ol> iii. String </ol></ol>
- <ol><ol> iv. Datetime </ol></ol>
+ <ol><ol> iii. Datetime </ol></ol>
 <ol> b. Identifying the data types </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
@@ -67,13 +66,13 @@ There are no required prerequisites for this course.
 <ol> b. Components of a query
 <ol> i. Functions</ol>
 <ol> ii. Clauses</ol>
-<ol> iii. Operators</ol>
-<ol> iv. SQL Statements and Queries </ol></ul>
+<ol> iii. Operators</ol></ol>
+<ol> c. SQL Statements and Queries </ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
-<ol> a. Selecting from a table</ol>
-<ol> b. Selecting one, multiple, or all columns </ol>
-<ol> c. Selecting distinct values from a column </ol>
+<ol> a. Overview of Select & From clause</ol>
+<ol> b. Selecting One / Multiple / All Columns </ol>
+<ol> c. Selecting Distinct values </ol>
 <ol> d. Using aliases </ol></ul>
 
 <ul><b> 8. <i> Week 8: Basic Aggregation Functions </i></b> 
