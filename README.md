@@ -40,11 +40,11 @@ There are no required prerequisites for this course.
 <ol> ii. Roles of ANSI and ISO </ol></ol></ul>
 
 <ul><b> 3. <i> Week 3: Relational Database Fundamentals </i></b>
-<ol> a. Understanding Schemas and Views</ol>
-<ol> b. Relationships and ER Diagrams (ERDs)</ol>
-<ol> c. Tabular data storage </ol>
-<ol> d. Components of a table </ol>
-<ol> e. Primary and Foreign keys </ol></ul>
+<ol> a. Inside a Relational Database</ol>
+<ol> b. Tabular data storage</ol>
+<ol> c. Primary and Foreign Keys</ol>
+<ol> d. Cardinality in Relational Databases</ol>
+<ol> e. Understanding Schemas and ERDs</ol></ul>
  
 <ul><b> 4. <i> Week 4: Getting Started with SQL & Chinook DB </i></b>
 <ol> a. Introducing the Chinook database </ol>
@@ -55,20 +55,20 @@ There are no required prerequisites for this course.
 
 
 <ul><b> 5. <i> Week 5: Defining & Identifying Data Types </i></b>
-<ol> a. Understanding the data types </ol>
+<ol> a. Data types in SQL </ol>
 <ol><ol> i. Boolean </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
 <ol><ol> iii. String </ol></ol>
  <ol><ol> iv. Datetime </ol></ol>
-<ol> b. Identifying the data type of a column or table </ol></ul>
+<ol> b. Identifying the data types </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
-<ol> a. SQL commands and command types</ol>
-<ol> b. SQL components
+<ol> a. Types of SQL commands</ol>
+<ol> b. Components of a query
 <ol> i. Functions</ol>
 <ol> ii. Clauses</ol>
 <ol> iii. Operators</ol>
-<ol> iv. Statments and Queries </ol></ul>
+<ol> iv. SQL Statements and Queries </ol></ul>
 
 <ul><b> 7. <i>Week 7: Constructing a Select Statement </i></b>
 <ol> a. Selecting from a table</ol>
