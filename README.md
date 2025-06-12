@@ -19,7 +19,7 @@ There are no required prerequisites for this course.
 
 <li><b>Platform:</b> YouTube (<a href="https://www.youtube.com/@TheDataArchives">@TheDataArchives</a>)</li>
 
-<li><b> Duration:</b> < 15 minutes </li>
+<li><b> Duration:</b> < 25 minutes </li>
 
 <h3> Course Content:</h3>
 
