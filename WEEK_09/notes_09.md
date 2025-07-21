@@ -20,6 +20,15 @@ SELECT UPPER(column1) AS formatted_data
 FROM your_table;
 ```
 
+<li><b>LENGTH()</b>
+<p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
+Application: Converting product names to uppercase for a catalog.</p></li>
+
+```sql
+SELECT LENGTH(column1, ' ', column2) AS formatted_data
+FROM your_table;
+```
+
 <li><b>SUBSTR()</b>
 <p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
 Application: Converting product names to uppercase for a catalog.</p></li>
