@@ -19,7 +19,15 @@ Application: Converting product names to uppercase for a catalog.</p></li>
 SELECT UPPER(column1) AS formatted_data
 FROM your_table;
 ```
-</ul>
+
+<li><b>SUBSTR()</b>
+<p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
+Application: Converting product names to uppercase for a catalog.</p></li>
+
+```sql
+SELECT SUBSTR(column1, i, n) AS formatted_data
+FROM your_table;
+```
 
 <li><b>CONCAT()</b>
 <p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
