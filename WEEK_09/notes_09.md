@@ -7,7 +7,7 @@
 Application: Standardizing usernames for login purposes (all usernames in lowercase for easier comparison).</p></li>
 
 ```sql
-SELECT LOWER(column_name) AS formatted_data
+SELECT LOWER(column1) AS formatted_data
 FROM your_table
 ```
 
@@ -16,10 +16,21 @@ FROM your_table
 Application: Converting product names to uppercase for a catalog.</p></li>
 
 ```sql
-SELECT UPPER(column_name) AS formatted_data
+SELECT UPPER(column1) AS formatted_data
 FROM your_table;
 ```
 </ul>
+
+<li><b>CONCAT()</b>
+<p>When you want to convert all characters in a string to uppercase. This can be useful for displaying data in a specific format.
+Application: Converting product names to uppercase for a catalog.</p></li>
+
+```sql
+SELECT CONCAT(column1, ' ', column2) AS formatted_data
+FROM your_table;
+```
+</ul>
+
 <b>NUMERIC FUNCTIONS</b>
 <ul>
 <li><b>FLOOR()</b>
