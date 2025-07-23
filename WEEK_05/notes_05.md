@@ -39,12 +39,16 @@
 <p>To identify the data type of a table in our database we can use the following:</p>
 
 ```sql
-#SQL Syntax Example:
 PRAGMA table_info(<insert table name>)
 ```
 <p>Alternatively, depending on the sql flavour, you may use this:</p>
 
 ```sql
 DESCRIBE <insert table name>
+```
+If you wish to know the data type of values within a specific column then you write the following.
+
+```sql
+SELECT TYPEOF(<instert column name>) FROM <insert table name>
 ```
 
