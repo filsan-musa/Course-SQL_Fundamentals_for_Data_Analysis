@@ -102,17 +102,6 @@ There are no required prerequisites for this course.
 <ol><ol> ii. Desc </ol></ol>
 <ol> c. Group By  </ol></ul>
 
-<ul><b> 11. <i> Week 11: Where & Having Clauses </i></b>
-<ol> a. Where </ol>
-<ol> b. Having </ol></ul>
-
-<ul><b> 12. <i> Week 12: Arithmetic Operators </i></b>
-<ol> a. Addition </ol>
-<ol> b. Subtraction </ol>
-<ol> c. Multiplication </ol>
-<ol> d. Division </ol>
-<ol> e. Modulo </ol></ul>
-
 <ul><b> 13. <i> Week 13: Logical & Comparison Operators </i></b>
  <ol> a. Logical Operators </ol>
 <ol><ol> i. And / Or  / Between / In </ol>
@@ -121,6 +110,17 @@ There are no required prerequisites for this course.
 <ol> b. Comparison Operators</ol>
 <ol><ol> i. Greater (Than) / Less (Than) </ol>
 <ol> ii. Equality / Inequality </ol></ol></ul>
+
+<ul><b> 12. <i> Week 12: Arithmetic Operators </i></b>
+<ol> a. Addition </ol>
+<ol> b. Subtraction </ol>
+<ol> c. Multiplication </ol>
+<ol> d. Division </ol>
+<ol> e. Modulo </ol></ul>
+
+<ul><b> 11. <i> Week 11: Where & Having Clauses </i></b>
+<ol> a. Where </ol>
+<ol> b. Having </ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
