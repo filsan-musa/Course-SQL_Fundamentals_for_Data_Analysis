@@ -143,7 +143,7 @@ There are no required prerequisites for this course.
 
 <b> Course Material: </b>
 <p> https://www.youtube.com/@TheDataArchives </p>
-<p> https://github.com/filsan95/Course-SQL_Fundamentals_for_Data_Analysis </p>
+<p> https://github.com/filsan-musa/Course-SQL_Fundamentals_for_Data_Analysis </p>
 <p> </p>
 
 <b> Resources (Optional): </b>
