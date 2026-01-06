@@ -82,7 +82,7 @@ There are no required prerequisites for this course.
 <ol> d. Min </ol>
 <ol> e. Max </ol></ul>
 
-<ul><b> 9. <i> Week 9: Basic Formatting Functions, and Keywords </i></b> 
+<ul><b> 9. <i> Week 9: Basic Formatting Functions </i></b> 
 <ol> a. String Functions </ol>
 <ol><ol> i. Lower() </ol></ol>
 <ol><ol> ii. Upper() </ol></ol>
@@ -92,8 +92,7 @@ There are no required prerequisites for this course.
 <ol> c. Datetime Functions </ol>
 <ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
 <ol><ol> ii. Timestamp(), Date()</ol></ol>
-<ol> d. Datetime Keywords </ol>
-<ol><ol> i. Current_Timestamp, Current_Time, Now()</ol></ol></ul>
+<ol><ol> iii. Current_Timestamp, Current_Time, Now()</ol></ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
