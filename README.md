@@ -116,10 +116,10 @@ There are no required prerequisites for this course.
  <ol> a. Logical Operators </ol>
 <ol><ol> i. And / Or  / Between / In </ol>
 <ol> ii. Not / Is (Not) Null </ol>
-<ol> iii. Like </ol></ol>
 <ol> b. Comparison Operators</ol>
 <ol><ol> i. Greater (Than) / Less (Than) </ol>
-<ol> ii. Equality / Inequality </ol></ol></ul>
+<ol> ii. Equality / Inequality </ol>
+<ol> iii. Like </ol></ol></ol></ul>
 
 <ul><b> 14. <i> Week 14: Use cases for the Case When statement </i></b>
 <ol> a. Using case when w/ logical & comparison operators</ol>
