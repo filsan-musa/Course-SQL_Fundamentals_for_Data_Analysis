@@ -138,7 +138,9 @@ There are no required prerequisites for this course.
 <ol> d. Common Errors & Debugging </ol>
 <ol> e. Reference a Database </ol></ul>
 
-<br>
+<br><b> 17. <i> Week 17 (BONUS): Modern Data Architecture (Medallion Architecture)</i></b>
+
+<br><b> 18. <i> Week 18 (BONUS): Real-World SQL Applications</i></b>
 
 <b> Course Material: </b>
 <p> https://www.youtube.com/@TheDataArchives </p>
