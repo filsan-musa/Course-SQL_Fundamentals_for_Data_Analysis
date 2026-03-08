@@ -59,6 +59,7 @@ There are no required prerequisites for this course.
 <ol><ol> i. String </ol></ol>
 <ol><ol> ii. Numeric </ol></ol>
  <ol><ol> iii. Datetime </ol></ol>
+<ol> b. Static vs. Dynamic storage </ol></ul>
 <ol> b. Identifying the data types </ol></ul>
 
 <ul><b> 6. <i> Week 6: Understanding SQL commands and components</i></b> 
