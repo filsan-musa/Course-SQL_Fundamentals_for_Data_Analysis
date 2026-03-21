@@ -142,7 +142,10 @@ There are no required prerequisites for this course.
 <b> Bonus Material: </b>
 <ul><b> <i> Week 17: Modern Data Architecture (Medallion Architecture)</i></b>
 
-<b> <i> Week 18: Real-World SQL Applications</i></b></ul>
+<b> <i> Week 18: Real-World SQL Applications</i></b>
+<b> <i> Week 19: Capstone Project</i></b></ul>
+
+
 
 <b> Course Material: </b>
 <p> https://www.youtube.com/@TheDataArchives </p>
