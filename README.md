@@ -140,10 +140,8 @@ There are no required prerequisites for this course.
 <ol> e. Reference a Database </ol></ul>
 
 <b> Bonus Material: </b>
-<ul><b> <i> Week 17: Modern Data Architecture (Medallion Architecture)</i></b>
-
-<b> <i> Week 18: Real-World SQL Applications</i></b>
-<b> <i> Week 19: Capstone Project</i></b></ul>
+<ol><b><i> Week 17: Modern Data Architecture (Medallion Architecture)</i></b></ol>
+<ol><b><i> Week 18: Real-World SQL Applications</i></b></ol>
 
 
 
