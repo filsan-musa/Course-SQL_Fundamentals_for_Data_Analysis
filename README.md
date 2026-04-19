@@ -85,15 +85,8 @@ There are no required prerequisites for this course.
 
 <ul><b> 9. <i> Week 9: Basic Formatting Functions </i></b> 
 <ol> a. String Functions </ol>
-<ol><ol> i. Lower() </ol></ol>
-<ol><ol> ii. Upper() </ol></ol>
 <ol> b. Numeric Functions </ol>
-<ol><ol> i. Floor() </ol></ol>
-<ol><ol> ii. Round() </ol></ol>
-<ol> c. Datetime Functions </ol>
-<ol><ol> i. Time(), Day(), Month(), Year()</ol></ol>
-<ol><ol> ii. Timestamp(), Date()</ol></ol>
-<ol><ol> iii. Current_Timestamp, Current_Time, Now()</ol></ol></ul>
+<ol> c. Datetime Functions </ol></ul>
 
 <ul><b> 10. <i> Week 10: Limit, Order By, Group By </i></b>
 <ol> a. Limit </ol>
